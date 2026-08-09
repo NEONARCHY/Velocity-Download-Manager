@@ -1,0 +1,13 @@
+name: Новая функция
+description: Предложить улучшение Velocity Download
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Что вы предлагаете?
+      description: Коротко опишите функцию и какую проблему она решит.
+    validations:
+      required: true
+

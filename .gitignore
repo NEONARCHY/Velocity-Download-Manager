@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+publish*/
+release*/
+*.pdb
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local test and preview artifacts
+*.exe
+ui-*.png
+*-preview.png
+range_server.py
+testdata/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

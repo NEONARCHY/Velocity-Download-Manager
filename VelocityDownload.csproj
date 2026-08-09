@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>VelocityDownload</AssemblyName>
+    <RootNamespace>VelocityDownload</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <Version>2.4.0</Version>
+    <Authors>NEONARCHY</Authors>
+    <Product>Velocity Download</Product>
+    <Description>Portable multi-download manager for Windows 11 with segmented downloads, resume support and Fluent UI.</Description>
+    <RepositoryUrl>https://github.com/NEONARCHY/velocity-download</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/NEONARCHY/velocity-download</PackageProjectUrl>
+    <Copyright>Copyright © 2026 NEONARCHY</Copyright>
+  </PropertyGroup>
+</Project>

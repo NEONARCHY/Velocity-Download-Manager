@@ -1,0 +1,35 @@
+name: Ошибка
+description: Сообщить о проблеме в Velocity Download
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Спасибо, что помогаете улучшать Velocity Download.
+  - type: input
+    id: version
+    attributes:
+      label: Версия
+      placeholder: "2.4.0"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что произошло?
+      description: Опишите ожидаемое и фактическое поведение.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить?
+      placeholder: "1. Вставил ссылку…\n2. Нажал «Добавить»…"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Версия Windows
+      placeholder: "Windows 11 24H2"
+
