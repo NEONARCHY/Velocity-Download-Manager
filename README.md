@@ -4,13 +4,13 @@
 
 **Лёгкий portable download manager для Windows 11**
 
-[![Release](https://img.shields.io/github/v/release/NEONARCHY/velocity-download?style=flat-square&color=0078d4)](https://github.com/NEONARCHY/velocity-download/releases/latest)
-[![Build](https://img.shields.io/github/actions/workflow/status/NEONARCHY/velocity-download/build.yml?style=flat-square&label=build)](https://github.com/NEONARCHY/velocity-download/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/NEONARCHY/velocity-download?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/NEONARCHY/Velocity-Download-Manager?style=flat-square&color=0078d4)](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest)
+[![Build](https://img.shields.io/github/actions/workflow/status/NEONARCHY/Velocity-Download-Manager/build.yml?style=flat-square&label=build)](https://github.com/NEONARCHY/Velocity-Download-Manager/actions/workflows/build.yml)
+[![License](https://img.shields.io/github/license/NEONARCHY/Velocity-Download-Manager?style=flat-square)](LICENSE)
 
 Несколько загрузок одновременно, до 16 соединений на файл, пауза и продолжение — в аккуратном Fluent-интерфейсе.
 
-[Скачать portable EXE](https://github.com/NEONARCHY/velocity-download/releases/latest) · [Сообщить об ошибке](https://github.com/NEONARCHY/velocity-download/issues/new?template=bug_report.yml)
+[Скачать portable EXE](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest) · [Сообщить об ошибке](https://github.com/NEONARCHY/Velocity-Download-Manager/issues/new?template=bug_report.yml)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## Быстрый старт
 
-1. Скачайте `VelocityDownload-v2.4-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/velocity-download/releases/latest).
+1. Скачайте `VelocityDownload-v2.4-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest).
 2. Запустите файл, вставьте одну или несколько прямых HTTP/HTTPS-ссылок.
 3. Выберите папку и нажмите **«Добавить»**.
 
