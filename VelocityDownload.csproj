@@ -13,8 +13,9 @@
     <Authors>NEONARCHY</Authors>
     <Product>Velocity Download</Product>
     <Description>Portable multi-download manager for Windows 11 with segmented downloads, resume support and Fluent UI.</Description>
-    <RepositoryUrl>https://github.com/NEONARCHY/velocity-download</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/NEONARCHY/velocity-download</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NEONARCHY/Velocity-Download-Manager</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/NEONARCHY/Velocity-Download-Manager</PackageProjectUrl>
     <Copyright>Copyright © 2026 NEONARCHY</Copyright>
   </PropertyGroup>
 </Project>
+
