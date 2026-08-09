@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/app-icon.png" width="104" alt="Velocity - Download Manager icon">
+
 # Velocity - Download Manager
 
 **Лёгкий portable download manager для Windows 11**
@@ -26,11 +28,12 @@
 - Временные части хранятся отдельно от папки загрузок — Проводник не дёргается во время записи файла.
 - Кэш автоматически удаляется после завершения или удаления незаконченной загрузки.
 - Один автономный `.exe`: установка и отдельный .NET Runtime не нужны.
+- Фирменная многоразмерная иконка для EXE, панели задач и окна приложения.
 - Интерфейс в стиле Windows 11 Fluent с Mica, системной типографикой и поддержкой DPI.
 
 ## Быстрый старт
 
-1. Скачайте `Velocity-Download-Manager-v2.4-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest).
+1. Скачайте `Velocity-Download-Manager-v2.4.1-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest).
 2. Запустите файл, вставьте одну или несколько прямых HTTP/HTTPS-ссылок.
 3. Выберите папку и нажмите **«Добавить»**.
 
@@ -60,14 +63,14 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 
 ## Проверка файла
 
-Для официального portable EXE версии 2.4:
+Для официального portable EXE версии 2.4.1:
 
 ```text
-SHA-256: 48B3AE9DE236E0E3EE1577660439F30AF2F9B5603AFC7DFDA3E0BEE964D917A4
+SHA-256: AC0B9D7E0AE8AA640F9D27940BF40F0C950C70A154058330A582FD25C5811ADB
 ```
 
 ```powershell
-Get-FileHash .\Velocity-Download-Manager-v2.4-portable.exe -Algorithm SHA256
+Get-FileHash .\Velocity-Download-Manager-v2.4.1-portable.exe -Algorithm SHA256
 ```
 
 ## Лицензия

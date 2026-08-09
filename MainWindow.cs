@@ -699,6 +699,13 @@ internal static class FluentWindow
     [DllImport("user32.dll")] private static extern bool DestroyIcon(IntPtr handle);
     public static Icon CreateAppIcon()
     {
+        using var embeddedIcon = typeof(FluentWindow).Assembly.GetManifestResourceStream("VelocityDownload.AppIcon.ico");
+        if (embeddedIcon is not null)
+        {
+            using var icon = new Icon(embeddedIcon);
+            return (Icon)icon.Clone();
+        }
+
         using var bitmap = new Bitmap(32, 32);
         using (var g = Graphics.FromImage(bitmap))
         {

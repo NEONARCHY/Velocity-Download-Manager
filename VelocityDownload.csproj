@@ -8,8 +8,9 @@
     <AssemblyName>VelocityDownload</AssemblyName>
     <RootNamespace>VelocityDownload</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>assets\app-icon.ico</ApplicationIcon>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
-    <Version>2.4.0</Version>
+    <Version>2.4.1</Version>
     <Authors>NEONARCHY</Authors>
     <Product>Velocity - Download Manager</Product>
     <Description>Portable multi-download manager for Windows 11 with segmented downloads, resume support and Fluent UI.</Description>
@@ -17,4 +18,7 @@
     <PackageProjectUrl>https://github.com/NEONARCHY/Velocity-Download-Manager</PackageProjectUrl>
     <Copyright>Copyright © 2026 NEONARCHY</Copyright>
   </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="assets\app-icon.ico" LogicalName="VelocityDownload.AppIcon.ico" />
+  </ItemGroup>
 </Project>
