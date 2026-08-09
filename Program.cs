@@ -274,4 +274,579 @@ internal sealed class LegacyMainForm : Form
 
     private static void StyleCombo(ComboBox combo)
     {
-        combo.BackColor = Input; combo.ForeColor = Prim„]∏∂âûÀk∫wµÁUÕ–∞Å!——¡Ωµ¡±ï—•Ωπ=¡—•Ω∏πIïÕ¡ΩπÕï!ïÖëï…ÕIïÖê∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅ•òÄ°…ïÕ¡ΩπÕîπM—Ö—’ÕΩëîÄÑÙÅ!——¡M—Ö—’ÕΩëîπAÖ…—•Ö±Ωπ—ïπ–§(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Åπï‹Å%=·çï¡—•Ω∏†ãBáB◊FBÀB◊F ÉBˇB◊FB◊FFB√BÏÉBˇB˚B”B”B◊FB€B„BÀB√FF0ÉBÛB˜B˚BœB˚BˇB˚FB˚FB˜FF8ÉBﬂB√BœFFBﬂBÎF∏à§Ï(ÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÅŸÖ»Å•π¡’–ÄÙÅÖ›Ö•–Å…ïÕ¡ΩπÕîπΩπ—ïπ–πIïÖëÕM—…ïÖµÕÂπå°—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åâ’ôôï»ÄÙÅπï‹ÅâÂ—ïlƒ»‡Ä®Äƒ¿»—tÏ(ÄÄÄÄÄÄÄÅ±ΩπúÅΩôôÕï–ÄÙÅô…Ω¥Ï(ÄÄÄÄÄÄÄÅ›°•±îÄ°—…’î§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å…ïÖêÄÙÅÖ›Ö•–Å•π¡’–πIïÖëÕÂπå°â’ôôï»∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÖêÄÙÙÄ¿§Åâ…ïÖ¨Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÖ±±Ω›ïêÄÙÄ°•π–•5Ö—†π5•∏°…ïÖê∞ÅÕïùµïπ–ππêÄ¥ÅΩôôÕï–Ä¨Äƒ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–ÅIÖπëΩµççïÕÃπ]…•—ïÕÂπå°°Öπë±î∞Åâ’ôôï»πÕ5ïµΩ…‰†¿∞ÅÖ±±Ω›ïê§∞ÅΩôôÕï–∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅΩôôÕï–Ä¨ÙÅÖ±±Ω›ïêÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ±Ωç¨Ä°}ÕÂπå§ÅÕïùµïπ–πΩ›π±ΩÖëïêÄ¨ÙÅÖ±±Ω›ïêÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ5ÖÂâïMÖŸïM—Ö—î°Õ—Ö—ïAÖ—†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°ΩôôÕï–Ä¯ÅÕïùµïπ–ππê§Åâ…ïÖ¨Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ•òÄ°ΩôôÕï–ÄÙÅÕïùµïπ–ππê§Å—°…Ω‹Åπï‹Åπë=ôM—…ïÖµ·çï¡—•Ω∏†ãBáB◊FBÀB◊F ÉBˇFB◊FBÀB√BÏÉFB˚B◊B”B„B˜B◊B˜B„B‘∏à§Ï(ÄÄÄÄÄÄÄÅÕïùµïπ–πΩµ¡±ï—îÄÙÅ—…’îÏ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÖÕÂπåÅQÖÕ¨ÅΩ›π±ΩÖëM•πù±ïÕÂπå°Õ—…•πúÅÕ—Ö—ïAÖ—†∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Å—Ω≠ï∏§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ°}Õ—Ö—îÅ•ÃÅπ’±∞§Å…ï—’…∏Ï(ÄÄÄÄÄÄÄÅ}Õ—Ö—îπUÕ•πùIÖπùïÃÄÙÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅÕïùµïπ–ÄÙÅ}Õ—Ö—îπMïùµïπ—Õl¡tÏ(ÄÄÄÄÄÄÄÅŸÖ»Åï·•Õ—•πúÄÙÅ•±îπ·•Õ—Ã°}Õ—Ö—îπAÖ…—•Ö±AÖ—†§Ä¸Åπï‹Å•±ï%πôº°}Õ—Ö—îπAÖ…—•Ö±AÖ—†§π1ïπù—†ÄËÄ¿Ï(ÄÄÄÄÄÄÄÅÕïùµïπ–πΩ›π±ΩÖëïêÄÙÅ}Õ—Ö—îπQΩ—Ö±1ïπù—†Ä¯Ä¿Ä¸Å5Ö—†π5•∏°ï·•Õ—•πú∞Å}Õ—Ö—îπQΩ—Ö±1ïπù—†§ÄËÅï·•Õ—•πúÏ(ÄÄÄÄÄÄÄÅŸÖ»Å…ï≈’ïÕ—ïë…Ω¥ÄÙÅÕïùµïπ–πΩ›π±ΩÖëïêÏ((ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ï≈’ïÕ–ÄÙÅπï‹Å!——¡Iï≈’ïÕ—5ïÕÕÖùî°!——¡5ï—°Ωêπï–∞Å}ÕΩ’…çî§Ï(ÄÄÄÄÄÄÄÅ•òÄ°…ï≈’ïÕ—ïë…Ω¥Ä¯Ä¿§Å…ï≈’ïÕ–π!ïÖëï…ÃπIÖπùîÄÙÅπï‹ÅIÖπùï!ïÖëï…YÖ±’î°…ï≈’ïÕ—ïë…Ω¥∞Åπ’±∞§Ï(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ïÕ¡ΩπÕîÄÙÅÖ›Ö•–Å±•ïπ–πMïπëÕÂπå°…ï≈’ïÕ–∞Å!——¡Ωµ¡±ï—•Ωπ=¡—•Ω∏πIïÕ¡ΩπÕï!ïÖëï…ÕIïÖê∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅ…ïÕ¡ΩπÕîππÕ’…ïM’ççïÕÕM—Ö—’ÕΩëî†§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅçÖπ¡¡ïπêÄÙÅ…ï≈’ïÕ—ïë…Ω¥Ä¯Ä¿ÄòòÅ…ïÕ¡ΩπÕîπM—Ö—’ÕΩëîÄÙÙÅ!——¡M—Ö—’ÕΩëîπAÖ…—•Ö±Ωπ—ïπ–Ï(ÄÄÄÄÄÄÄÅ•òÄ†ÖçÖπ¡¡ïπê§ÅÏÅ…ï≈’ïÕ—ïë…Ω¥ÄÙÄ¿ÏÅÕïùµïπ–πΩ›π±ΩÖëïêÄÙÄ¿ÏÅÙ((ÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÅŸÖ»ÅΩ’—¡’–ÄÙÅπï‹Å•±ïM—…ïÖ¥°}Õ—Ö—îπAÖ…—•Ö±AÖ—†∞ÅçÖπ¡¡ïπêÄ¸Å•±ï5Ωëîπ¡¡ïπêÄËÅ•±ï5Ωëîπ…ïÖ—î∞Å•±ïççïÕÃπ]…•—î∞Å•±ïM°Ö…îπIïÖê∞Ä»‘ÿÄ®Äƒ¿»–∞Å•±ï=¡—•ΩπÃπÕÂπç°…ΩπΩ’ÃÅÅ•±ï=¡—•ΩπÃπMï≈’ïπ—•Ö±MçÖ∏§Ï(ÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÅŸÖ»Å•π¡’–ÄÙÅÖ›Ö•–Å…ïÕ¡ΩπÕîπΩπ—ïπ–πIïÖëÕM—…ïÖµÕÂπå°—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åâ’ôôï»ÄÙÅπï‹ÅâÂ—ïl»‘ÿÄ®Äƒ¿»—tÏ(ÄÄÄÄÄÄÄÅ›°•±îÄ°—…’î§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å…ïÖêÄÙÅÖ›Ö•–Å•π¡’–πIïÖëÕÂπå°â’ôôï»∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°…ïÖêÄÙÙÄ¿§Åâ…ïÖ¨Ï(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–ÅΩ’—¡’–π]…•—ïÕÂπå°â’ôôï»πÕ5ïµΩ…‰†¿∞Å…ïÖê§∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ±Ωç¨Ä°}ÕÂπå§ÅÕïùµïπ–πΩ›π±ΩÖëïêÄ¨ÙÅ…ïÖêÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ5ÖÂâïMÖŸïM—Ö—î°Õ—Ö—ïAÖ—†§Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅÕïùµïπ–πΩµ¡±ï—îÄÙÅ}Õ—Ö—îπQΩ—Ö±1ïπù—†ÄÙÄ¿ÅÒÅÕïùµïπ–πΩ›π±ΩÖëïêÄ¯ÙÅ}Õ—Ö—îπQΩ—Ö±1ïπù—†Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÖÕÂπåÅQÖÕ¨ÒIïµΩ—ï%πôº¯ÅA…ΩâïÕÂπå°Öπçï±±Ö—•ΩπQΩ≠ï∏Å—Ω≠ï∏§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ï≈’ïÕ–ÄÙÅπï‹Å!——¡Iï≈’ïÕ—5ïÕÕÖùî°!——¡5ï—°Ωêπï–∞Å}ÕΩ’…çî§Ï(ÄÄÄÄÄÄÄÅ…ï≈’ïÕ–π!ïÖëï…ÃπIÖπùîÄÙÅπï‹ÅIÖπùï!ïÖëï…YÖ±’î†¿∞Ä¿§Ï(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Å…ïÕ¡ΩπÕîÄÙÅÖ›Ö•–Å±•ïπ–πMïπëÕÂπå°…ï≈’ïÕ–∞Å!——¡Ωµ¡±ï—•Ωπ=¡—•Ω∏πIïÕ¡ΩπÕï!ïÖëï…ÕIïÖê∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅ…ïÕ¡ΩπÕîππÕ’…ïM’ççïÕÕM—Ö—’ÕΩëî†§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅÕ’¡¡Ω…—ÕIÖπùïÃÄÙÅ…ïÕ¡ΩπÕîπM—Ö—’ÕΩëîÄÙÙÅ!——¡M—Ö—’ÕΩëîπAÖ…—•Ö±Ωπ—ïπ–ÄòòÅ…ïÕ¡ΩπÕîπΩπ—ïπ–π!ïÖëï…ÃπΩπ—ïπ—IÖπùî¸π1ïπù—†Å•ÃÄ¯Ä¿Ï(ÄÄÄÄÄÄÄÅŸÖ»Å±ïπù—†ÄÙÅ…ïÕ¡ΩπÕîπΩπ—ïπ–π!ïÖëï…ÃπΩπ—ïπ—IÖπùî¸π1ïπù—†Ä¸¸Å…ïÕ¡ΩπÕîπΩπ—ïπ–π!ïÖëï…ÃπΩπ—ïπ—1ïπù—†Ä¸¸Ä¥ƒÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅπÖµîÄÙÅï—•±ï9Öµî°…ïÕ¡ΩπÕî∞Å}ÕΩ’…çî§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏Åπï‹ÅIïµΩ—ï%πôº°πÖµî∞Å±ïπù—†∞ÅÕ’¡¡Ω…—ÕIÖπùïÃ§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÖÕÂπåÅQÖÕ¨ÒΩ›π±ΩÖëM—Ö—î¯Å1ΩÖë=……ïÖ—ïM—Ö—ïÕÂπå°Õ—…•πúÅÕ—Ö—ïAÖ—†∞ÅÕ—…•πúÅô•πÖ±AÖ—†∞ÅÕ—…•πúÅ¡Ö…—•Ö±AÖ—†∞ÅIïµΩ—ï%πôºÅ…ïµΩ—î∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Å—Ω≠ï∏§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ°•±îπ·•Õ—Ã°Õ—Ö—ïAÖ—†§ÄòòÅ•±îπ·•Õ—Ã°¡Ö…—•Ö±AÖ—†§§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ—…‰(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å©ÕΩ∏ÄÙÅÖ›Ö•–Å•±îπIïÖë±±Qï·—ÕÂπå°Õ—Ö—ïAÖ—†∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å±ΩÖëïêÄÙÅ)ÕΩπMï…•Ö±•Èï»πïÕï…•Ö±•ÈîÒΩ›π±ΩÖëM—Ö—î¯°©ÕΩ∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°±ΩÖëïêÅ•ÃÅπΩ–Åπ’±∞ÄòòÅ±ΩÖëïêπU…∞ÄÙÙÅ}ÕΩ’…çîπQΩM—…•πú†§ÄòòÅ±ΩÖëïêπQΩ—Ö±1ïπù—†ÄÙÙÅ…ïµΩ—îπ1ïπù—†§(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ±ΩÖëïêπ•πÖ±AÖ—†ÄÙÅô•πÖ±AÖ—†Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ±ΩÖëïêπAÖ…—•Ö±AÖ—†ÄÙÅ¡Ö…—•Ö±AÖ—†Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ±ΩÖëïêπM—Ö—ïAÖ—†ÄÙÅÕ—Ö—ïAÖ—†Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅôΩ…ïÖç†Ä°ŸÖ»ÅÃÅ•∏Å±ΩÖëïêπMïùµïπ—Ã§ÅÃπΩ›π±ΩÖëïêÄÙÅ5Ö—†π±Öµ¿°ÃπΩ›π±ΩÖëïê∞Ä¿∞ÅÃππêÄ¥ÅÃπM—Ö…–Ä¨Äƒ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏Å±ΩÖëïêÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅçÖ—ç†ÅÏÅÙ(ÄÄÄÄÄÄÄÅÙ((ÄÄÄÄÄÄÄÅŸÖ»ÅÕ—Ö—îÄÙÅπï‹ÅΩ›π±ΩÖëM—Ö—îÅÏÅU…∞ÄÙÅ}ÕΩ’…çîπQΩM—…•πú†§∞Å•πÖ±AÖ—†ÄÙÅô•πÖ±AÖ—†∞ÅAÖ…—•Ö±AÖ—†ÄÙÅ¡Ö…—•Ö±AÖ—†∞ÅM—Ö—ïAÖ—†ÄÙÅÕ—Ö—ïAÖ—†∞ÅQΩ—Ö±1ïπù—†ÄÙÅ…ïµΩ—îπ1ïπù—†∞ÅUÕ•πùIÖπùïÃÄÙÅ…ïµΩ—îπM’¡¡Ω…—ÕIÖπùïÃÄòòÅ}…ï≈’ïÕ—ïëΩππïç—•ΩπÃÄ¯ÄƒÅÙÏ(ÄÄÄÄÄÄÄÅ•òÄ°Õ—Ö—îπUÕ•πùIÖπùïÃÄòòÅ…ïµΩ—îπ1ïπù—†Ä¯Ä¿§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅçΩ’π–ÄÙÄ°•π–•5Ö—†π5•∏°}…ï≈’ïÕ—ïëΩππïç—•ΩπÃ∞Å5Ö—†π5Ö‡†ƒ∞Å…ïµΩ—îπ1ïπù—†ÄºÄ†ƒ¿»–Ä®Äƒ¿»–§§§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Åç°’π¨ÄÙÅ…ïµΩ—îπ1ïπù—†ÄºÅçΩ’π–Ï(ÄÄÄÄÄÄÄÄÄÄÄÅôΩ»Ä°ŸÖ»Å§ÄÙÄ¿ÏÅ§ÄÅçΩ’π–ÏÅ§¨¨§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÕ—Ö…–ÄÙÅ§Ä®Åç°’π¨Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅïπêÄÙÅ§ÄÙÙÅçΩ’π–Ä¥ÄƒÄ¸Å…ïµΩ—îπ1ïπù—†Ä¥ÄƒÄËÄ†°§Ä¨Äƒ§Ä®Åç°’π¨§Ä¥ÄƒÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÕ—Ö—îπMïùµïπ—Ãπëê°πï‹ÅMïùµïπ—M—Ö—îÅÏÅM—Ö…–ÄÙÅÕ—Ö…–∞ÅπêÄÙÅïπêÅÙ§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅï±ÕîÅÕ—Ö—îπMïùµïπ—Ãπëê°πï‹ÅMïùµïπ—M—Ö—îÅÏÅM—Ö…–ÄÙÄ¿∞ÅπêÄÙÅ…ïµΩ—îπ1ïπù—†Ä¯Ä¿Ä¸Å…ïµΩ—îπ1ïπù—†Ä¥ÄƒÄËÅ±Ωπúπ5Ö·YÖ±’îÄ¥ÄƒÅÙ§Ï(ÄÄÄÄÄÄÄÅÖ›Ö•–Å•±îπ]…•—ï±±Qï·—ÕÂπå°Õ—Ö—ïAÖ—†∞Å)ÕΩπMï…•Ö±•Èï»πMï…•Ö±•Èî°Õ—Ö—î§∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅÕ—Ö—îÏ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅŸΩ•êÅ5ÖÂâïMÖŸïM—Ö—î°Õ—…•πúÅÕ—Ö—ïAÖ—†§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ†°Ö—ïQ•µîπU—ç9Ω‹Ä¥Å}±ÖÕ—M—Ö—ïMÖŸî§πQΩ—Ö±MïçΩπëÃÄÄƒÅÒÅ%π—ï…±Ωç≠ïêπ·ç°Öπùî°…ïòÅ}ÕÖŸ•πú∞Äƒ§ÄÙÙÄƒ§Å…ï—’…∏Ï(ÄÄÄÄÄÄÄÅ}±ÖÕ—M—Ö—ïMÖŸîÄÙÅÖ—ïQ•µîπU—ç9Ω‹Ï(ÄÄÄÄÄÄÄÅ}¡ïπë•πùM—Ö—ïMÖŸîÄÙÅQÖÕ¨πI’∏°ÖÕÂπåÄ†§ÄÙ¯(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ—…‰ÅÏÅÖ›Ö•–ÅMÖŸïM—Ö—ïÕÂπå°Õ—Ö—ïAÖ—†∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏π9Ωπî§ÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅçÖ—ç†ÅÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅô•πÖ±±‰ÅÏÅ%π—ï…±Ωç≠ïêπ·ç°Öπùî°…ïòÅ}ÕÖŸ•πú∞Ä¿§ÏÅÙ(ÄÄÄÄÄÄÄÅÙ§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÖÕÂπåÅQÖÕ¨ÅMÖŸïM—Ö—ïÕÂπå°Õ—…•πúÅÕ—Ö—ïAÖ—†∞ÅÖπçï±±Ö—•ΩπQΩ≠ï∏Å—Ω≠ï∏§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ°}Õ—Ö—îÅ•ÃÅπ’±∞§Å…ï—’…∏Ï(ÄÄÄÄÄÄÄÅÖ›Ö•–Å}Õ—Ö—ïMÖŸïÖ—îπ]Ö•—ÕÂπå°—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÅ—…‰(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÕ—…•πúÅ©ÕΩ∏Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ±Ωç¨Ä°}ÕÂπå§Å©ÕΩ∏ÄÙÅ)ÕΩπMï…•Ö±•Èï»πMï…•Ö±•Èî°}Õ—Ö—î§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å—ïµ¿ÄÙÅÕ—Ö—ïAÖ—†Ä¨Äàπ—µ¿àÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–Å•±îπ]…•—ï±±Qï·—ÕÂπå°—ïµ¿∞Å©ÕΩ∏∞Å—Ω≠ï∏§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•±îπ5ΩŸî°—ïµ¿∞ÅÕ—Ö—ïAÖ—†∞Å—…’î§Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅô•πÖ±±‰ÅÏÅ}Õ—Ö—ïMÖŸïÖ—îπIï±ïÖÕî†§ÏÅÙ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÖÕÂπåÅQÖÕ¨Å]Ö•—Ω…Aïπë•πùM—Ö—ïMÖŸïÕÂπå†§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»Å¡ïπë•πúÄÙÅ}¡ïπë•πùM—Ö—ïMÖŸîÏ(ÄÄÄÄÄÄÄÅ•òÄ°¡ïπë•πúÅ•ÃÅπ’±∞§Å…ï—’…∏Ï(ÄÄÄÄÄÄÄÅ—…‰ÅÏÅÖ›Ö•–Å¡ïπë•πúÏÅÙ(ÄÄÄÄÄÄÄÅçÖ—ç†ÅÏÅÙ(ÄÄÄÅÙ((ÄÄÄÅ•π—ï…πÖ∞ÅÕ—Ö—•åÅÖÕÂπåÅQÖÕ¨ÒâΩΩ∞¯Åï±ï—ïÖç°ïëΩ›π±ΩÖëÕÂπå°U…§ÅÕΩ’…çî∞ÅÕ—…•πúÅôΩ±ëï»§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅçÖç°îÄÙÅï—Öç°ïAÖ—°Ã°ÕΩ’…çî∞ÅôΩ±ëï»§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åô•±ïÃÄÙÅπï›mtÅÏÅçÖç°îπM—Ö—ïAÖ—†Ä¨Äàπ—µ¿à∞ÅçÖç°îπM—Ö—ïAÖ—†∞ÅçÖç°îπAÖ…—•Ö±AÖ—†ÅÙÏ(ÄÄÄÄÄÄÄÅôΩ»Ä°ŸÖ»ÅÖ——ïµ¡–ÄÙÄ¿ÏÅÖ——ïµ¡–ÄÄ‡ÏÅÖ——ïµ¡–¨¨§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅôÖ•±ïêÄÙÅôÖ±ÕîÏ(ÄÄÄÄÄÄÄÄÄÄÄÅôΩ…ïÖç†Ä°ŸÖ»Åô•±îÅ•∏Åô•±ïÃ§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ—…‰ÅÏÅ•òÄ°•±îπ·•Õ—Ã°ô•±î§§Å•±îπï±ï—î°ô•±î§ÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅçÖ—ç†Ä°%=·çï¡—•Ω∏§ÅÏÅôÖ•±ïêÄÙÅ—…’îÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅçÖ—ç†Ä°UπÖ’—°Ω…•ÈïëççïÕÕ·çï¡—•Ω∏§ÅÏÅôÖ•±ïêÄÙÅ—…’îÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†ÖôÖ•±ïêÄòòÅô•±ïÃπ±∞°ô•±îÄÙ¯ÄÖ•±îπ·•Õ—Ã°ô•±î§§§Å…ï—’…∏Å—…’îÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–ÅQÖÕ¨πï±Ö‰†ƒ¿¿Ä¨ÅÖ——ïµ¡–Ä®Äƒ¿¿§Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅ…ï—’…∏Åô•±ïÃπ±∞°ô•±îÄÙ¯ÄÖ•±îπ·•Õ—Ã°ô•±î§§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅ!——¡±•ïπ–Å…ïÖ—ï±•ïπ–†§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»Å°Öπë±ï»ÄÙÅπï‹ÅMΩç≠ï—Õ!——¡!Öπë±ï»(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ’—ΩµÖ—•çïçΩµ¡…ïÕÕ•Ω∏ÄÙÅïçΩµ¡…ïÕÕ•Ωπ5ï—°ΩëÃπ9Ωπî∞(ÄÄÄÄÄÄÄÄÄÄÄÅ±±Ω›’—ΩIïë•…ïç–ÄÙÅ—…’î∞(ÄÄÄÄÄÄÄÄÄÄÄÅ5Ö·’—ΩµÖ—•çIïë•…ïç—•ΩπÃÄÙÄƒ¿∞(ÄÄÄÄÄÄÄÄÄÄÄÅ5Ö·Ωππïç—•ΩπÕAï…Mï…Ÿï»ÄÙÄÃ»∞(ÄÄÄÄÄÄÄÄÄÄÄÅΩππïç—Q•µïΩ’–ÄÙÅQ•µïM¡Ö∏π…ΩµMïçΩπëÃ†»¿§∞(ÄÄÄÄÄÄÄÄÄÄÄÅAΩΩ±ïëΩππïç—•Ωπ1•ôï—•µîÄÙÅQ•µïM¡Ö∏π…Ωµ5•π’—ïÃ†ƒ¿§∞(ÄÄÄÄÄÄÄÄÄÄÄÅUÕïA…Ω·‰ÄÙÅ—…’î(ÄÄÄÄÄÄÄÅÙÏ(ÄÄÄÄÄÄÄÅŸÖ»Åç±•ïπ–ÄÙÅπï‹Å!——¡±•ïπ–°°Öπë±ï»§ÅÏÅQ•µïΩ’–ÄÙÅQ•µïΩ’–π%πô•π•—ïQ•µïM¡Ö∏ÅÙÏ(ÄÄÄÄÄÄÄÅç±•ïπ–πïôÖ’±—Iï≈’ïÕ—!ïÖëï…ÃπUÕï…ùïπ–πAÖ…Õïëê†â5ΩÈ•±±Ñº‘∏¿Ä°]•πëΩ›ÃÅ9PÄƒ¿∏¿ÏÅ]•∏ÿ–ÏÅ‡ÿ–§ÅYï±Ωç•—ÂΩ›π±ΩÖêº»∏–à§Ï(ÄÄÄÄÄÄÄÅç±•ïπ–πïôÖ’±—Iï≈’ïÕ—!ïÖëï…Ãπççï¡–πëê°πï‹Å5ïë•ÖQÂ¡ï]•—°E’Ö±•—Â!ïÖëï…YÖ±’î†à®º®à§§Ï(ÄÄÄÄÄÄÄÅç±•ïπ–πïôÖ’±—Iï≈’ïÕ—!ïÖëï…Ãπççï¡—πçΩë•πúπAÖ…Õïëê†â•ëïπ—•—‰à§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏Åç±•ïπ–Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅï—•±ï9Öµî°!——¡IïÕ¡ΩπÕï5ïÕÕÖùîÅ…ïÕ¡ΩπÕî∞ÅU…§ÅΩ…•ù•πÖ∞§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅçêÄÙÅ…ïÕ¡ΩπÕîπΩπ—ïπ–π!ïÖëï…ÃπΩπ—ïπ—•Õ¡ΩÕ•—•Ω∏Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅπÖµîÄÙÅçê¸π•±ï9ÖµïM—Ö»Ä¸¸Åçê¸π•±ï9ÖµîÏ(ÄÄÄÄÄÄÄÅ•òÄ†ÖÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°πÖµî§§Å…ï—’…∏ÅπÖµîπQ…•¥†úàú§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åô•πÖ±U…§ÄÙÅ…ïÕ¡ΩπÕîπIï≈’ïÕ—5ïÕÕÖùî¸πIï≈’ïÕ—U…§Ä¸¸ÅΩ…•ù•πÖ∞Ï(ÄÄÄÄÄÄÄÅŸÖ»Å¡Ö—°9ÖµîÄÙÅU…§πUπïÕçÖ¡ïÖ—ÖM—…•πú°AÖ—†πï—•±ï9Öµî°ô•πÖ±U…§π1ΩçÖ±AÖ—†§§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°¡Ö—°9Öµî§Ä¸ÄâëΩ›π±ΩÖêπâ•∏àÄËÅ¡Ö—°9ÖµîÏ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅ5Ö≠ïMÖôï•±ï9Öµî°Õ—…•πúÅπÖµî§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅôΩ…ïÖç†Ä°ŸÖ»ÅåÅ•∏ÅAÖ—†πï—%πŸÖ±•ë•±ï9Öµï°Ö…Ã†§§ÅπÖµîÄÙÅπÖµîπIï¡±Öçî°å∞Äù|ú§Ï(ÄÄÄÄÄÄÄÅπÖµîÄÙÅπÖµîπQ…•¥†§πQ…•µπê†ú∏ú§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏ÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°πÖµî§Ä¸ÄâëΩ›π±ΩÖêπâ•∏àÄËÅπÖµîÏ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—…•πú¸Åï—Öç°ïë•πÖ±AÖ—†°Õ—…•πúÅÕ—Ö—ïAÖ—†∞ÅÕ—…•πúÅ¡Ö…—•Ö±AÖ—†∞ÅIïµΩ—ï%πôºÅ…ïµΩ—î§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ•òÄ†Ö•±îπ·•Õ—Ã°Õ—Ö—ïAÖ—†§ÅÒÄÖ•±îπ·•Õ—Ã°¡Ö…—•Ö±AÖ—†§§Å…ï—’…∏Åπ’±∞Ï(ÄÄÄÄÄÄÄÅ—…‰(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÕ—Ö—îÄÙÅ)ÕΩπMï…•Ö±•Èï»πïÕï…•Ö±•ÈîÒΩ›π±ΩÖëM—Ö—î¯°•±îπIïÖë±±Qï·–°Õ—Ö—ïAÖ—†§§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°Õ—Ö—îÅ•ÃÅπ’±∞ÅÒÅÕ—Ö—îπU…∞ÄÑÙÅ}ÕΩ’…çîπQΩM—…•πú†§ÅÒÅÕ—Ö—îπQΩ—Ö±1ïπù—†ÄÑÙÅ…ïµΩ—îπ1ïπù—†ÅÒÅÕ—…•πúπ%Õ9’±±=…]°•—ïM¡Öçî°Õ—Ö—îπ•πÖ±AÖ—†§§Å…ï—’…∏Åπ’±∞Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»Å…ï≈’ïÕ—ïëΩ±ëï»ÄÙÅAÖ—†πï—’±±AÖ—†°}ôΩ±ëï»§πQ…•µπê°AÖ—†π•…ïç—Ω…ÂMï¡Ö…Ö—Ω…°Ö»§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÕ—Ö—ïΩ±ëï»ÄÙÅAÖ—†πï—’±±AÖ—†°AÖ—†πï—•…ïç—Ω…Â9Öµî°Õ—Ö—îπ•πÖ±AÖ—†§Ñ§πQ…•µπê°AÖ—†π•…ïç—Ω…ÂMï¡Ö…Ö—Ω…°Ö»§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ†ÖÕ—…•πúπ≈’Ö±Ã°…ï≈’ïÕ—ïëΩ±ëï»∞ÅÕ—Ö—ïΩ±ëï»∞ÅM—…•πùΩµ¡Ö…•ÕΩ∏π=…ë•πÖ±%ùπΩ…ïÖÕî§§Å…ï—’…∏Åπ’±∞Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ±Ωç¨Ä°ïÕ—•πÖ—•Ωπ1Ωç¨§ÅIïÕï…ŸïëïÕ—•πÖ—•ΩπÃπëê°Õ—Ö—îπ•πÖ±AÖ—†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏ÅÕ—Ö—îπ•πÖ±AÖ—†Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅçÖ—ç†ÅÏÅ…ï—’…∏Åπ’±∞ÏÅÙ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÕ—…•πúÅï—ŸÖ•±Öâ±ïïÕ—•πÖ—•ΩπAÖ—†°Õ—…•πúÅôΩ±ëï»∞ÅÕ—…•πúÅπÖµî§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅ±Ωç¨Ä°ïÕ—•πÖ—•Ωπ1Ωç¨§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅÕ—ï¥ÄÙÅAÖ—†πï—•±ï9Öµï]•—°Ω’—·—ïπÕ•Ω∏°πÖµî§ÏÅŸÖ»Åï·–ÄÙÅAÖ—†πï—·—ïπÕ•Ω∏°πÖµî§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅôΩ»Ä°ŸÖ»Å§ÄÙÄ¿ÏÅ§ÄÄƒ¡|¿¿¿ÏÅ§¨¨§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅçÖπë•ëÖ—îÄÙÅAÖ—†πΩµâ•πî°ôΩ±ëï»∞Å§ÄÙÙÄ¿Ä¸ÅπÖµîÄËÄêâÌÕ—ïµÙÄ°Ì•Ù•Ìï·—Ùà§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°•±îπ·•Õ—Ã°çÖπë•ëÖ—î§ÅÒÅ•±îπ·•Õ—Ã°çÖπë•ëÖ—îÄ¨ÄàπŸï±Ωç•—‰π¡Ö…–à§ÅÒÅ•±îπ·•Õ—Ã°çÖπë•ëÖ—îÄ¨ÄàπŸï±Ωç•—‰π©ÕΩ∏à§ÅÒÅIïÕï…ŸïëïÕ—•πÖ—•ΩπÃπΩπ—Ö•πÃ°çÖπë•ëÖ—î§§ÅçΩπ—•π’îÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅIïÕï…ŸïëïÕ—•πÖ—•ΩπÃπëê°çÖπë•ëÖ—î§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏ÅçÖπë•ëÖ—îÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅŸÖ»ÅôÖ±±âÖç¨ÄÙÅAÖ—†πΩµâ•πî°ôΩ±ëï»∞ÄêâÌÕ—ïµÙµÌ’•êπ9ï›’•ê†§È9ıÌï·—Ùà§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅIïÕï…ŸïëïÕ—•πÖ—•ΩπÃπëê°ôÖ±±âÖç¨§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏ÅôÖ±±âÖç¨Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÖç°ïAÖ—°ÃÅï—Öç°ïAÖ—°Ã°U…§ÅÕΩ’…çî∞ÅÕ—…•πúÅôΩ±ëï»§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅπΩ…µÖ±•ÈïëΩ±ëï»ÄÙÅAÖ—†πï—’±±AÖ—†°ôΩ±ëï»§πQ…•µπê°AÖ—†π•…ïç—Ω…ÂMï¡Ö…Ö—Ω…°Ö»§πQΩU¡¡ï…%πŸÖ…•Öπ–†§Ï(ÄÄÄÄÄÄÄÅŸÖ»Å≠ïÂ	Â—ïÃÄÙÅM!»‘ÿπ!ÖÕ°Ö—Ñ°πçΩë•πúπUQ‡πï—	Â—ïÃ°ÕΩ’…çîÄ¨Äâq∏àÄ¨ÅπΩ…µÖ±•ÈïëΩ±ëï»§§Ï(ÄÄÄÄÄÄÄÅŸÖ»Å≠ï‰ÄÙÅΩπŸï…–πQΩ!ï·M—…•πú°≠ïÂ	Â—ïÃ§πQΩ1Ω›ï…%πŸÖ…•Öπ–†§Ï(ÄÄÄÄÄÄÄÅŸÖ»Åë•…ïç—Ω…‰ÄÙÅAÖ—†πΩµâ•πî°πŸ•…Ωπµïπ–πï—Ω±ëï…AÖ—†°πŸ•…Ωπµïπ–πM¡ïç•Ö±Ω±ëï»π1ΩçÖ±¡¡±•çÖ—•ΩπÖ—Ñ§∞ÄâYï±Ωç•—ÂΩ›π±ΩÖêà∞ÄâÖç°îà§Ï(ÄÄÄÄÄÄÄÅ…ï—’…∏Åπï‹ÅÖç°ïAÖ—°Ã°ë•…ïç—Ω…‰∞ÅAÖ—†πΩµâ•πî°ë•…ïç—Ω…‰∞Å≠ï‰Ä¨Äàπ©ÕΩ∏à§∞ÅAÖ—†πΩµâ•πî°ë•…ïç—Ω…‰∞Å≠ï‰Ä¨Äàπ¡Ö…–à§§Ï(ÄÄÄÅÙ((ÄÄÄÅ¡…•ŸÖ—îÅÕ—Ö—•åÅÖÕÂπåÅQÖÕ¨ÒÕ—…•πú¯Å•πÖ±•ÈïΩ›π±ΩÖëÕÂπå°Õ—…•πúÅ¡Ö…—•Ö±AÖ—†∞ÅÕ—…•πúÅ…ï≈’ïÕ—ïëAÖ—†§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅŸÖ»ÅëïÕ—•πÖ—•Ω∏ÄÙÅ…ï≈’ïÕ—ïëAÖ—†Ï(ÄÄÄÄÄÄÄÅ•òÄ°•±îπ·•Õ—Ã°ëïÕ—•πÖ—•Ω∏§§ÅëïÕ—•πÖ—•Ω∏ÄÙÅï—ŸÖ•±Öâ±ïïÕ—•πÖ—•ΩπAÖ—†°AÖ—†πï—•…ïç—Ω…Â9Öµî°ëïÕ—•πÖ—•Ω∏§Ñ∞ÅAÖ—†πï—•±ï9Öµî°ëïÕ—•πÖ—•Ω∏§§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅÕΩ’…çïIΩΩ–ÄÙÅAÖ—†πï—AÖ—°IΩΩ–°AÖ—†πï—’±±AÖ—†°¡Ö…—•Ö±AÖ—†§§Ï(ÄÄÄÄÄÄÄÅŸÖ»ÅëïÕ—•πÖ—•ΩπIΩΩ–ÄÙÅAÖ—†πï—AÖ—°IΩΩ–°AÖ—†πï—’±±AÖ—†°ëïÕ—•πÖ—•Ω∏§§Ï(ÄÄÄÄÄÄÄÅ•òÄ°Õ—…•πúπ≈’Ö±Ã°ÕΩ’…çïIΩΩ–∞ÅëïÕ—•πÖ—•ΩπIΩΩ–∞ÅM—…•πùΩµ¡Ö…•ÕΩ∏π=…ë•πÖ±%ùπΩ…ïÖÕî§§(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ•±îπ5ΩŸî°¡Ö…—•Ö±AÖ—†∞ÅëïÕ—•πÖ—•Ω∏∞ÅôÖ±Õî§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏ÅëïÕ—•πÖ—•Ω∏Ï(ÄÄÄÄÄÄÄÅÙ((ÄÄÄÄÄÄÄÅŸÖ»ÅÕ—Öù•πúÄÙÅAÖ—†πΩµâ•πî°AÖ—†πï—•…ïç—Ω…Â9Öµî°ëïÕ—•πÖ—•Ω∏§Ñ∞ÄêàπÌAÖ—†πï—•±ï9Öµî°ëïÕ—•πÖ—•Ω∏•ÙπÌ’•êπ9ï›’•ê†§È9ÙπŸï±Ωç•—‰µô•πÖ±•È•πúà§Ï(ÄÄÄÄÄÄÄÅ—…‰(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÄ°ŸÖ»Å•π¡’–ÄÙÅπï‹Å•±ïM—…ïÖ¥°¡Ö…—•Ö±AÖ—†∞Å•±ï5Ωëîπ=¡ï∏∞Å•±ïççïÕÃπIïÖê∞Å•±ïM°Ö…îπIïÖê∞Äƒ¿»–Ä®Äƒ¿»–∞Å•±ï=¡—•ΩπÃπÕÂπç°…ΩπΩ’ÃÅÅ•±ï=¡—•ΩπÃπMï≈’ïπ—•Ö±MçÖ∏§§(ÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–Å’Õ•πúÄ°ŸÖ»ÅΩ’—¡’–ÄÙÅπï‹Å•±ïM—…ïÖ¥°Õ—Öù•πú∞Å•±ï5Ωëîπ…ïÖ—ï9ï‹∞Å•±ïççïÕÃπ]…•—î∞Å•±ïM°Ö…îπIïÖê∞Äƒ¿»–Ä®Äƒ¿»–∞Å•±ï=¡—•ΩπÃπÕÂπç°…ΩπΩ’ÃÅÅ•±ï=¡—•ΩπÃπMï≈’ïπ—•Ö±MçÖ∏§§(ÄÄÄÄÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ—…‰ÅÏÅ•±îπMï———…•â’—ïÃ°Õ—Öù•πú∞Å•±ï——…•â’—ïÃπ!•ëëï∏ÅÅ•±ï——…•â’—ïÃπQïµ¡Ω…Ö…‰§ÏÅÙÅçÖ—ç†ÅÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–Å•π¡’–πΩ¡ÂQΩÕÂπå°Ω’—¡’–§Ï(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÖ›Ö•–ÅΩ’—¡’–π±’Õ°ÕÂπå†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅ—…‰ÅÏÅ•±îπMï———…•â’—ïÃ°Õ—Öù•πú∞Å•±ï——…•â’—ïÃπ9Ω…µÖ∞§ÏÅÙÅçÖ—ç†ÅÏÅÙ(ÄÄÄÄÄÄÄÄÄÄÄÅ•±îπ5ΩŸî°Õ—Öù•πú∞ÅëïÕ—•πÖ—•Ω∏∞ÅôÖ±Õî§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ•±îπï±ï—î°¡Ö…—•Ö±AÖ—†§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ…ï—’…∏ÅëïÕ—•πÖ—•Ω∏Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÄÄÄÄÅçÖ—ç†(ÄÄÄÄÄÄÄÅÏ(ÄÄÄÄÄÄÄÄÄÄÄÅ•òÄ°•±îπ·•Õ—Ã°Õ—Öù•πú§§Å•±îπï±ï—î°Õ—Öù•πú§Ï(ÄÄÄÄÄÄÄÄÄÄÄÅ—°…Ω‹Ï(ÄÄÄÄÄÄÄÅÙ(ÄÄÄÅÙ)Ù()•π—ï…πÖ∞ÅÕïÖ±ïêÅç±ÖÕÃÅΩ›π±ΩÖëM—Ö—î)Ï(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅU…∞ÅÏÅùï–ÏÅÕï–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅ•πÖ±AÖ—†ÅÏÅùï–ÏÅÕï–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅAÖ…—•Ö±AÖ—†ÅÏÅùï–ÏÅÕï–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅÕ—…•πúÅM—Ö—ïAÖ—†ÅÏÅùï–ÏÅÕï–ÏÅÙÄÙÄààÏ(ÄÄÄÅ¡’â±•åÅ±ΩπúÅQΩ—Ö±1ïπù—†ÅÏÅùï–ÏÅÕï–ÏÅÙ(ÄÄÄÅ¡’â±•åÅâΩΩ∞ÅUÕ•πùIÖπùïÃÅÏÅùï–ÏÅÕï–ÏÅÙ(ÄÄÄÅ¡’â±•åÅ1•Õ–ÒMïùµïπ—M—Ö—î¯ÅMïùµïπ—ÃÅÏÅùï–ÏÅÕï–ÏÅÙÄÙÅmtÏ)Ù()•π—ï…πÖ∞ÅÕïÖ±ïêÅç±ÖÕÃÅMïùµïπ—M—Ö—î)Ï(ÄÄÄÅ¡’â±•åÅ±ΩπúÅM—Ö…–ÅÏÅùï–ÏÅÕï–ÏÅÙ(ÄÄÄÅ¡’â±•åÅ±ΩπúÅπêÅÏÅùï–ÏÅÕï–ÏÅÙ(ÄÄÄÅ¡’â±•åÅ±ΩπúÅΩ›π±ΩÖëïêÅÏÅùï–ÏÅÕï–ÏÅÙ(ÄÄÄÅ¡’â±•åÅâΩΩ∞ÅΩµ¡±ï—îÅÏÅùï–ÏÅÕï–ÏÅÙ)Ù()•π—ï…πÖ∞Å…ïÖëΩπ±‰Å…ïçΩ…êÅÕ—…’ç–ÅIïµΩ—ï%πôº°Õ—…•πúÅ•±ï9Öµî∞Å±ΩπúÅ1ïπù—†∞ÅâΩΩ∞ÅM’¡¡Ω…—ÕIÖπùïÃ§Ï)•π—ï…πÖ∞Å…ïÖëΩπ±‰Å…ïçΩ…êÅÕ—…’ç–ÅÖç°ïAÖ—°Ã°Õ—…•πúÅ•…ïç—Ω…‰∞ÅÕ—…•πúÅM—Ö—ïAÖ—†∞ÅÕ—…•πúÅAÖ…—•Ö±AÖ—†§Ï)•π—ï…πÖ∞Å…ïÖëΩπ±‰Å…ïçΩ…êÅÕ—…’ç–ÅΩ›π±ΩÖëA…Ωù…ïÕÃ°Õ—…•πúÅ•±ï9Öµî∞Å±ΩπúÅΩ›π±ΩÖëïê∞Å±ΩπúÅQΩ—Ö∞∞ÅëΩ’â±îÅ	Â—ïÕAï…MïçΩπê∞ÅâΩΩ∞ÅUÕ•πùIÖπùïÃ∞Å•π–Åç—•ŸïΩππïç—•ΩπÃ§Ï()•π—ï…πÖ∞ÅÕïÖ±ïêÅç±ÖÕÃÅMµΩΩ—°A…Ωù…ïÕÕ	Ö»ÄËÅΩπ—…Ω∞)Ï(ÄÄÄÅ¡…•ŸÖ—îÅ•π–Å}ŸÖ±’îÏ(ÄÄÄÅm	…Ω›ÕÖâ±î°ôÖ±Õî•t(ÄÄÄÅmïÕ•ùπï…Mï…•Ö±•ÈÖ—•ΩπY•Õ•â•±•—‰°ïÕ•ùπï…Mï…•Ö±•ÈÖ—•ΩπY•Õ•â•±•—‰π!•ëëï∏•t(ÄÄÄÅ¡’â±•åÅ•π–ÅYÖ±’îÅÏÅùï–ÄÙ¯Å}ŸÖ±’îÏÅÕï–ÅÏÅ}ŸÖ±’îÄÙÅ5Ö—†π±Öµ¿°ŸÖ±’î∞Ä¿∞Äƒ¿¿¿§ÏÅ%πŸÖ±•ëÖ—î†§ÏÅÙÅÙ(ÄÄÄÅ¡’â±•åÅMµΩΩ—°A…Ωù…ïÕÕ	Ö»†§ÅÏÅMï—M—Â±î°Ωπ—…Ω±M—Â±ïÃπ±±AÖ•π—•πù%π]µAÖ•π–ÅÅΩπ—…Ω±M—Â±ïÃπUÕï…AÖ•π–ÅÅΩπ—…Ω±M—Â±ïÃπ=¡—•µ•ÈïëΩ’â±ï	’ôôï»∞Å—…’î§ÏÅÙ(ÄÄÄÅ¡…Ω—ïç—ïêÅΩŸï……•ëîÅŸΩ•êÅ=πAÖ•π–°AÖ•π—Ÿïπ—…ùÃÅî§(ÄÄÄÅÏ(ÄÄÄÄÄÄÄÅîπ…Ö¡°•çÃπ±ïÖ»°	Öç≠Ω±Ω»§Ï(ÄÄÄÄÄÄÄÅ•òÄ°}ŸÖ±’îÄÙÄ¿§Å…ï—’…∏Ï(ÄÄÄÄÄÄÄÅŸÖ»Å›•ë—†ÄÙÄ°•π–§°±•ïπ—M•Èîπ]•ë—†Ä®Ä°}ŸÖ±’îÄºÄƒ¿¿¡ê§§Ï(ÄÄÄÄÄÄÄÅ’Õ•πúÅŸÖ»Åâ…’Õ†ÄÙÅπï‹ÅMΩ±•ë	…’Õ†°Ω…ïΩ±Ω»§Ï(ÄÄÄÄÄÄÄÅîπ…Ö¡°•çÃπ•±±Iïç—Öπù±î°â…’Õ†∞Ä¿∞Ä¿∞Å›•ë—†∞Å±•ïπ—M•Èîπ!ï•ù°–§Ï(ÄÄÄÅÙ)Ù()•π—ï…πÖ∞ÅÕ—Ö—•åÅç±ÖÕÃÅΩπ—…Ω±·—ïπÕ•ΩπÃ)Ï(ÄÄÄÅ¡’â±•åÅÕ—Ö—•åÅPÅ]•—†ÒP¯°—°•ÃÅPÅŸÖ±’î∞Åç—•Ω∏ÒP¯ÅÖç—•Ω∏§ÅÏÅÖç—•Ω∏°ŸÖ±’î§ÏÅ…ï—’…∏ÅŸÖ±’îÏÅÙ)Ù(
+        combo.BackColor = Input; combo.ForeColor = PrimaryText; combo.FlatStyle = FlatStyle.Flat;
+        combo.Font = new Font("Segoe UI", 9.5f); combo.Dock = DockStyle.Fill; combo.Margin = new Padding(0, 0, 8, 0);
+        combo.DrawMode = DrawMode.OwnerDrawFixed;
+        combo.ItemHeight = 28;
+        combo.DrawItem += (_, e) =>
+        {
+            if (e.Index < 0) return;
+            var selected = (e.State & DrawItemState.Selected) != 0;
+            using var background = new SolidBrush(selected ? Accent : Input);
+            using var foreground = new SolidBrush(PrimaryText);
+            e.Graphics.FillRectangle(background, e.Bounds);
+            e.Graphics.DrawString(combo.Items[e.Index]?.ToString(), combo.Font, foreground, e.Bounds.X + 8, e.Bounds.Y + 5);
+        };
+    }
+
+    private async Task StartDownloadAsync()
+    {
+        if (_engine?.IsRunning == true) return;
+        if (!Uri.TryCreate(_url.Text.Trim(), UriKind.Absolute, out var uri) || (uri.Scheme != "http" && uri.Scheme != "https"))
+        {
+            ShowError("–ù—É–∂–Ω–∞ –∫–æ—Ä—Ä–µ–∫—Ç–Ω–∞—è –ø—Ä—è–º–∞—è —Å—Å—ã–ª–∫–∞, –Ω–∞—á–∏–Ω–∞—é—â–∞—è—Å—è —Å http:// –∏–ª–∏ https://"); return;
+        }
+
+        var folder = _folder.Text.Trim();
+        if (string.IsNullOrWhiteSpace(folder)) { ShowError("–í—ã–±–µ—Ä–∏—Ç–µ –ø–∞–ø–∫—É –¥–ª—è —Å–æ—Ö—Ä–∞–Ω–µ–Ω–∏—è."); return; }
+        try { Directory.CreateDirectory(folder); }
+        catch (Exception ex) { ShowError("–ù–µ —É–¥–∞–ª–æ—Å—å –æ—Ç–∫—Ä—ã—Ç—å –ø–∞–ø–∫—É: " + ex.Message); return; }
+
+        _cts = new CancellationTokenSource();
+        _engine = new DownloadEngine(uri, folder, GetConnectionCount());
+        SetDownloading(true);
+        _fileName.Text = "–ü–æ–¥–∫–ª—é—á–µ–Ω–∏–µ‚Ä¶";
+        _status.Text = "–ü—Ä–æ–≤–µ—Ä—è–µ–º —Å–µ—Ä–≤–µ—Ä –∏ –ø–∞—Ä–∞–º–µ—Ç—Ä—ã —Ñ–∞–π–ª–∞";
+        _progress.Value = 0;
+        _uiTimer.Start();
+
+        try
+        {
+            var result = await _engine.RunAsync(_cts.Token);
+            _lastCompletedFile = result;
+            _fileName.Text = Path.GetFileName(result);
+            _status.Text = "–ì–æ—Ç–æ–≤–æ ‚Äî —Ñ–∞–π–ª —É—Å–ø–µ—à–Ω–æ –∑–∞–≥—Ä—É–∂–µ–Ω";
+            _percent.Text = "100%"; _progress.Value = 1000;
+            System.Media.SystemSounds.Asterisk.Play();
+        }
+        catch (OperationCanceledException)
+        {
+            if (!_closing) _status.Text = "–ù–∞ –ø–∞—É–∑–µ ‚Äî –Ω–∞–∂–º–∏—Ç–µ ¬´–ü—Ä–æ–¥–æ–ª–∂–∏—Ç—å¬ª";
+        }
+        catch (Exception ex)
+        {
+            _status.Text = "–û—à–∏–±–∫–∞ –∑–∞–≥—Ä—É–∑–∫–∏";
+            ShowError(ex.Message);
+        }
+        finally
+        {
+            _uiTimer.Stop(); RefreshProgress(); SetDownloading(false);
+        }
+    }
+
+    private void PauseDownload()
+    {
+        if (_engine?.IsRunning != true) return;
+        _status.Text = "–°–æ—Ö—Ä–∞–Ω—è–µ–º –ø—Ä–æ–≥—Ä–µ—Å—Å‚Ä¶";
+        _cts?.Cancel();
+    }
+
+    private void RefreshProgress()
+    {
+        if (_engine is null) return;
+        var p = _engine.GetProgress();
+        if (!string.IsNullOrWhiteSpace(p.FileName)) _fileName.Text = p.FileName;
+        _downloaded.Text = $"{FormatBytes(p.Downloaded)} / {(p.Total > 0 ? FormatBytes(p.Total) : "–Ω–µ–∏–∑–≤–µ—Å—Ç–Ω–æ")}";
+        _speed.Text = p.BytesPerSecond > 0 ? $"{FormatBytes((long)p.BytesPerSecond)}/—Å" : "0 –ë/—Å";
+        if (p.Total > 0)
+        {
+            var fraction = Math.Clamp((double)p.Downloaded / p.Total, 0, 1);
+            _percent.Text = $"{fraction * 100:0.0}%";
+            _progress.Value = (int)(fraction * 1000);
+            var remaining = p.BytesPerSecond > 1 ? TimeSpan.FromSeconds((p.Total - p.Downloaded) / p.BytesPerSecond) : TimeSpan.MaxValue;
+            _eta.Text = remaining != TimeSpan.MaxValue ? "–û—Å—Ç–∞–ª–æ—Å—å: " + FormatDuration(remaining) : "–û—Å—Ç–∞–ª–æ—Å—å: ‚Äî";
+        }
+        else { _percent.Text = "‚Äî"; _eta.Text = "–û—Å—Ç–∞–ª–æ—Å—å: ‚Äî"; }
+        if (_engine.IsRunning) _status.Text = p.UsingRanges ? $"–ó–∞–≥—Ä—É–∑–∫–∞ –≤ {p.ActiveConnections} –ø–æ—Ç–æ–∫–æ–≤" : "–ó–∞–≥—Ä—É–∑–∫–∞ –æ–¥–Ω–∏–º –ø–æ—Ç–æ–∫–æ–º (–æ–≥—Ä–∞–Ω–∏—á–µ–Ω–∏–µ —Å–µ—Ä–≤–µ—Ä–∞)";
+    }
+
+    private void SetDownloading(bool active)
+    {
+        _start.Enabled = !active; _url.Enabled = !active; _folder.Enabled = !active; _browse.Enabled = !active; _paste.Enabled = !active; _connections.Enabled = !active;
+        _pause.Enabled = active; _pause.Text = "–ü–ê–£–ó–ê"; _start.Text = active ? "–ó–ê–ì–†–£–ó–ö–ê‚Ä¶" : ((_engine is not null && _engine.GetProgress().Downloaded > 0 && _lastCompletedFile is null) ? "–ü–†–û–î–û–õ–ñ–ò–¢–¨" : "–°–ö–ê–ß–ê–¢–¨");
+    }
+
+    private int GetConnectionCount() => _connections.SelectedIndex switch { 1 => 4, 2 => 8, 3 => 16, 4 => 1, _ => 8 };
+
+    private void PasteUrl()
+    {
+        try { if (Clipboard.ContainsText()) _url.Text = Clipboard.GetText().Trim(); }
+        catch { }
+    }
+
+    private void TryFillFromClipboard()
+    {
+        if (!string.IsNullOrWhiteSpace(_url.Text)) return;
+        try
+        {
+            var text = Clipboard.ContainsText() ? Clipboard.GetText().Trim() : "";
+            if (Uri.TryCreate(text, UriKind.Absolute, out var u) && (u.Scheme == "http" || u.Scheme == "https")) _url.Text = text;
+        }
+        catch { }
+    }
+
+    private void BrowseFolder()
+    {
+        using var dialog = new FolderBrowserDialog { Description = "–ö—É–¥–∞ —Å–æ—Ö—Ä–∞–Ω–∏—Ç—å —Ñ–∞–π–ª?", SelectedPath = _folder.Text, UseDescriptionForTitle = true };
+        if (dialog.ShowDialog(this) == DialogResult.OK) _folder.Text = dialog.SelectedPath;
+    }
+
+    private void OpenFolder()
+    {
+        var folder = _lastCompletedFile is not null ? Path.GetDirectoryName(_lastCompletedFile)! : _folder.Text;
+        if (Directory.Exists(folder)) Process.Start(new ProcessStartInfo("explorer.exe", $"\"{folder}\"") { UseShellExecute = true });
+    }
+
+    private void OnFormClosing(object? sender, FormClosingEventArgs e)
+    {
+        _closing = true; _cts?.Cancel();
+    }
+
+    private void ShowError(string text) => MessageBox.Show(this, text, "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+    private static string FormatBytes(long value)
+    {
+        string[] units = ["–ë", "–ö–ë", "–ú–ë", "–ì–ë", "–¢–ë"];
+        double size = value; var i = 0;
+        while (size >= 1024 && i < units.Length - 1) { size /= 1024; i++; }
+        return i == 0 ? $"{size:0} {units[i]}" : $"{size:0.##} {units[i]}";
+    }
+
+    private static string FormatDuration(TimeSpan t)
+    {
+        if (t.TotalDays >= 1) return $"{(int)t.TotalDays} –¥ {t.Hours} —á";
+        if (t.TotalHours >= 1) return $"{(int)t.TotalHours} —á {t.Minutes} –º–∏–Ω";
+        if (t.TotalMinutes >= 1) return $"{(int)t.TotalMinutes} –º–∏–Ω {t.Seconds} —Å–µ–∫";
+        return $"{Math.Max(0, t.Seconds)} —Å–µ–∫";
+    }
+}
+
+internal sealed class DownloadEngine
+{
+    private static readonly HttpClient Client = CreateClient();
+    private static readonly object DestinationLock = new();
+    private static readonly HashSet<string> ReservedDestinations = new(StringComparer.OrdinalIgnoreCase);
+    private readonly Uri _source;
+    private readonly string _folder;
+    private readonly int _requestedConnections;
+    private readonly object _sync = new();
+    private DownloadState? _state;
+    private long _sessionStartBytes;
+    private Stopwatch _sessionWatch = new();
+    private DateTime _lastStateSave = DateTime.MinValue;
+    private int _saving;
+    private Task? _pendingStateSave;
+    private readonly SemaphoreSlim _stateSaveGate = new(1, 1);
+
+    public bool IsRunning { get; private set; }
+
+    public DownloadEngine(Uri source, string folder, int requestedConnections)
+    {
+        _source = source; _folder = folder; _requestedConnections = requestedConnections;
+    }
+
+    public async Task<string> RunAsync(CancellationToken token)
+    {
+        IsRunning = true;
+        try
+        {
+            var remote = await ProbeAsync(token);
+            var safeName = MakeSafeFileName(remote.FileName);
+            var cache = GetCachePaths(_source, _folder);
+            Directory.CreateDirectory(cache.Directory);
+            var statePath = cache.StatePath;
+            var partialPath = cache.PartialPath;
+            var finalPath = GetCachedFinalPath(statePath, partialPath, remote) ?? GetAvailableDestinationPath(_folder, safeName);
+
+            _state = await LoadOrCreateStateAsync(statePath, finalPath, partialPath, remote, token);
+            _sessionStartBytes = _state.Segments.Sum(x => x.Downloaded);
+            _sessionWatch.Restart();
+
+            Directory.CreateDirectory(Path.GetDirectoryName(finalPath)!);
+            if (remote.SupportsRanges && remote.Length > 0 && _requestedConnections > 1)
+                await DownloadRangedAsync(statePath, token);
+            else
+                await DownloadSingleAsync(statePath, token);
+
+            await SaveStateAsync(statePath, CancellationToken.None);
+            await WaitForPendingStateSaveAsync();
+            if (_state.TotalLength > 0 && _state.Segments.Sum(x => x.Downloaded) < _state.TotalLength)
+                throw new IOException("–ó–∞–≥—Ä—É–∑–∫–∞ –∑–∞–≤–µ—Ä—à–∏–ª–∞—Å—å —Ä–∞–Ω—å—à–µ –æ–∂–∏–¥–∞–µ–º–æ–≥–æ —Ä–∞–∑–º–µ—Ä–∞. –ü–æ–ø—Ä–æ–±—É–π—Ç–µ –ø—Ä–æ–¥–æ–ª–∂–∏—Ç—å.");
+
+            finalPath = await FinalizeDownloadAsync(partialPath, _state.FinalPath);
+            File.Delete(statePath);
+            File.Delete(statePath + ".tmp");
+            return finalPath;
+        }
+        catch (OperationCanceledException)
+        {
+            if (_state is not null) await SaveStateAsync(_state.StatePath, CancellationToken.None);
+            await WaitForPendingStateSaveAsync();
+            throw;
+        }
+        finally
+        {
+            await WaitForPendingStateSaveAsync();
+            IsRunning = false; _sessionWatch.Stop();
+        }
+    }
+
+    public DownloadProgress GetProgress()
+    {
+        lock (_sync)
+        {
+            if (_state is null) return new DownloadProgress("", 0, 0, 0, false, 0);
+            var done = _state.Segments.Sum(x => x.Downloaded);
+            var elapsed = _sessionWatch.Elapsed.TotalSeconds;
+            var speed = elapsed > .2 ? Math.Max(0, done - _sessionStartBytes) / elapsed : 0;
+            return new DownloadProgress(Path.GetFileName(_state.FinalPath), done, _state.TotalLength, speed, _state.UsingRanges, _state.Segments.Count(x => !x.Complete));
+        }
+    }
+
+    private async Task DownloadRangedAsync(string statePath, CancellationToken token)
+    {
+        if (_state is null) return;
+        _state.UsingRanges = true;
+        await using (var init = new FileStream(_state.PartialPath, FileMode.OpenOrCreate, FileAccess.Write, FileShare.ReadWrite, 1, FileOptions.Asynchronous))
+            init.SetLength(_state.TotalLength);
+
+        using var handle = File.OpenHandle(_state.PartialPath, FileMode.Open, FileAccess.Write, FileShare.ReadWrite, FileOptions.Asynchronous | FileOptions.RandomAccess);
+        var tasks = _state.Segments.Where(s => !s.Complete).Select(segment => DownloadSegmentWithRetriesAsync(segment, handle, statePath, token));
+        await Task.WhenAll(tasks);
+    }
+
+    private async Task DownloadSegmentWithRetriesAsync(SegmentState segment, Microsoft.Win32.SafeHandles.SafeFileHandle handle, string statePath, CancellationToken token)
+    {
+        Exception? last = null;
+        for (var attempt = 1; attempt <= 5; attempt++)
+        {
+            token.ThrowIfCancellationRequested();
+            try { await DownloadSegmentAsync(segment, handle, statePath, token); return; }
+            catch (OperationCanceledException) { throw; }
+            catch (Exception ex)
+            {
+                last = ex;
+                await Task.Delay(TimeSpan.FromMilliseconds(400 * attempt * attempt), token);
+            }
+        }
+        throw new IOException($"–ù–µ —É–¥–∞–ª–æ—Å—å –∑–∞–≥—Ä—É–∑–∏—Ç—å —á–∞—Å—Ç—å —Ñ–∞–π–ª–∞ –ø–æ—Å–ª–µ –Ω–µ—Å–∫–æ–ª—å–∫–∏—Ö –ø–æ–ø—ã—Ç–æ–∫: {last?.Message}", last);
+    }
+
+    private async Task DownloadSegmentAsync(SegmentState segment, Microsoft.Win32.SafeHandles.SafeFileHandle handle, string statePath, CancellationToken token)
+    {
+        var from = segment.Start + segment.Downloaded;
+        if (from > segment.End) { segment.Complete = true; return; }
+        using var request = new HttpRequestMessage(HttpMethod.Get, _source);
+        request.Headers.Range = new RangeHeaderValue(from, segment.End);
+        using var response = await Client.SendAsync(request, HttpCompletionOption.ResponseHeadersRead, token);
+        if (response.StatusCode != HttpStatusCode.PartialContent)
+            throw new IOException("–°–µ—Ä–≤–µ—Ä –ø–µ—Ä–µ—Å—Ç–∞–ª –ø–æ–¥–¥–µ—Ä–∂–∏–≤–∞—Ç—å –º–Ω–æ–≥–æ–ø–æ—Ç–æ—á–Ω—É—é –∑–∞–≥—Ä—É–∑–∫—É.");
+        await using var input = await response.Content.ReadAsStreamAsync(token);
+        var buffer = new byte[128 * 1024];
+        long offset = from;
+        while (true)
+        {
+            var read = await input.ReadAsync(buffer, token);
+            if (read == 0) break;
+            var allowed = (int)Math.Min(read, segment.End - offset + 1);
+            await RandomAccess.WriteAsync(handle, buffer.AsMemory(0, allowed), offset, token);
+            offset += allowed;
+            lock (_sync) segment.Downloaded += allowed;
+            MaybeSaveState(statePath);
+            if (offset > segment.End) break;
+        }
+        if (offset <= segment.End) throw new EndOfStreamException("–°–µ—Ä–≤–µ—Ä –ø—Ä–µ—Ä–≤–∞–ª —Å–æ–µ–¥–∏–Ω–µ–Ω–∏–µ.");
+        segment.Complete = true;
+    }
+
+    private async Task DownloadSingleAsync(string statePath, CancellationToken token)
+    {
+        if (_state is null) return;
+        _state.UsingRanges = false;
+        var segment = _state.Segments[0];
+        var existing = File.Exists(_state.PartialPath) ? new FileInfo(_state.PartialPath).Length : 0;
+        segment.Downloaded = _state.TotalLength > 0 ? Math.Min(existing, _state.TotalLength) : existing;
+        var requestedFrom = segment.Downloaded;
+
+        using var request = new HttpRequestMessage(HttpMethod.Get, _source);
+        if (requestedFrom > 0) request.Headers.Range = new RangeHeaderValue(requestedFrom, null);
+        using var response = await Client.SendAsync(request, HttpCompletionOption.ResponseHeadersRead, token);
+        response.EnsureSuccessStatusCode();
+        var canAppend = requestedFrom > 0 && response.StatusCode == HttpStatusCode.PartialContent;
+        if (!canAppend) { requestedFrom = 0; segment.Downloaded = 0; }
+
+        await using var output = new FileStream(_state.PartialPath, canAppend ? FileMode.Append : FileMode.Create, FileAccess.Write, FileShare.Read, 256 * 1024, FileOptions.Asynchronous | FileOptions.SequentialScan);
+        await using var input = await response.Content.ReadAsStreamAsync(token);
+        var buffer = new byte[256 * 1024];
+        while (true)
+        {
+            var read = await input.ReadAsync(buffer, token);
+            if (read == 0) break;
+            await output.WriteAsync(buffer.AsMemory(0, read), token);
+            lock (_sync) segment.Downloaded += read;
+            MaybeSaveState(statePath);
+        }
+        segment.Complete = _state.TotalLength <= 0 || segment.Downloaded >= _state.TotalLength;
+    }
+
+    private async Task<RemoteInfo> ProbeAsync(CancellationToken token)
+    {
+        using var request = new HttpRequestMessage(HttpMethod.Get, _source);
+        request.Headers.Range = new RangeHeaderValue(0, 0);
+        using var response = await Client.SendAsync(request, HttpCompletionOption.ResponseHeadersRead, token);
+        response.EnsureSuccessStatusCode();
+        var supportsRanges = response.StatusCode == HttpStatusCode.PartialContent && response.Content.Headers.ContentRange?.Length is > 0;
+        var length = response.Content.Headers.ContentRange?.Length ?? response.Content.Headers.ContentLength ?? -1;
+        var name = GetFileName(response, _source);
+        return new RemoteInfo(name, length, supportsRanges);
+    }
+
+    private async Task<DownloadState> LoadOrCreateStateAsync(string statePath, string finalPath, string partialPath, RemoteInfo remote, CancellationToken token)
+    {
+        if (File.Exists(statePath) && File.Exists(partialPath))
+        {
+            try
+            {
+                var json = await File.ReadAllTextAsync(statePath, token);
+                var loaded = JsonSerializer.Deserialize<DownloadState>(json);
+                if (loaded is not null && loaded.Url == _source.ToString() && loaded.TotalLength == remote.Length)
+                {
+                    loaded.FinalPath = finalPath;
+                    loaded.PartialPath = partialPath;
+                    loaded.StatePath = statePath;
+                    foreach (var s in loaded.Segments) s.Downloaded = Math.Clamp(s.Downloaded, 0, s.End - s.Start + 1);
+                    return loaded;
+                }
+            }
+            catch { }
+        }
+
+        var state = new DownloadState { Url = _source.ToString(), FinalPath = finalPath, PartialPath = partialPath, StatePath = statePath, TotalLength = remote.Length, UsingRanges = remote.SupportsRanges && _requestedConnections > 1 };
+        if (state.UsingRanges && remote.Length > 0)
+        {
+            var count = (int)Math.Min(_requestedConnections, Math.Max(1, remote.Length / (1024 * 1024)));
+            var chunk = remote.Length / count;
+            for (var i = 0; i < count; i++)
+            {
+                var start = i * chunk;
+                var end = i == count - 1 ? remote.Length - 1 : ((i + 1) * chunk) - 1;
+                state.Segments.Add(new SegmentState { Start = start, End = end });
+            }
+        }
+        else state.Segments.Add(new SegmentState { Start = 0, End = remote.Length > 0 ? remote.Length - 1 : long.MaxValue - 1 });
+        await File.WriteAllTextAsync(statePath, JsonSerializer.Serialize(state), token);
+        return state;
+    }
+
+    private void MaybeSaveState(string statePath)
+    {
+        if ((DateTime.UtcNow - _lastStateSave).TotalSeconds < 1 || Interlocked.Exchange(ref _saving, 1) == 1) return;
+        _lastStateSave = DateTime.UtcNow;
+        _pendingStateSave = Task.Run(async () =>
+        {
+            try { await SaveStateAsync(statePath, CancellationToken.None); }
+            catch { }
+            finally { Interlocked.Exchange(ref _saving, 0); }
+        });
+    }
+
+    private async Task SaveStateAsync(string statePath, CancellationToken token)
+    {
+        if (_state is null) return;
+        await _stateSaveGate.WaitAsync(token);
+        try
+        {
+            string json;
+            lock (_sync) json = JsonSerializer.Serialize(_state);
+            var temp = statePath + ".tmp";
+            await File.WriteAllTextAsync(temp, json, token);
+            File.Move(temp, statePath, true);
+        }
+        finally { _stateSaveGate.Release(); }
+    }
+
+    private async Task WaitForPendingStateSaveAsync()
+    {
+        var pending = _pendingStateSave;
+        if (pending is null) return;
+        try { await pending; }
+        catch { }
+    }
+
+    internal static async Task<bool> DeleteCachedDownloadAsync(Uri source, string folder)
+    {
+        var cache = GetCachePaths(source, folder);
+        var files = new[] { cache.StatePath + ".tmp", cache.StatePath, cache.PartialPath };
+        for (var attempt = 0; attempt < 8; attempt++)
+        {
+            var failed = false;
+            foreach (var file in files)
+            {
+                try { if (File.Exists(file)) File.Delete(file); }
+                catch (IOException) { failed = true; }
+                catch (UnauthorizedAccessException) { failed = true; }
+            }
+            if (!failed && files.All(file => !File.Exists(file))) return true;
+            await Task.Delay(100 + attempt * 100);
+        }
+        return files.All(file => !File.Exists(file));
+    }
+
+    private static HttpClient CreateClient()
+    {
+        var handler = new SocketsHttpHandler
+        {
+            AutomaticDecompression = DecompressionMethods.None,
+            AllowAutoRedirect = true,
+            MaxAutomaticRedirections = 10,
+            MaxConnectionsPerServer = 32,
+            ConnectTimeout = TimeSpan.FromSeconds(20),
+            PooledConnectionLifetime = TimeSpan.FromMinutes(10),
+            UseProxy = true
+        };
+        var client = new HttpClient(handler) { Timeout = Timeout.InfiniteTimeSpan };
+        client.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (Windows NT 10.0; Win64; x64) VelocityDownload/2.4");
+        client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("*/*"));
+        client.DefaultRequestHeaders.AcceptEncoding.ParseAdd("identity");
+        return client;
+    }
+
+    private static string GetFileName(HttpResponseMessage response, Uri original)
+    {
+        var cd = response.Content.Headers.ContentDisposition;
+        var name = cd?.FileNameStar ?? cd?.FileName;
+        if (!string.IsNullOrWhiteSpace(name)) return name.Trim('"');
+        var finalUri = response.RequestMessage?.RequestUri ?? original;
+        var pathName = Uri.UnescapeDataString(Path.GetFileName(finalUri.LocalPath));
+        return string.IsNullOrWhiteSpace(pathName) ? "download.bin" : pathName;
+    }
+
+    private static string MakeSafeFileName(string name)
+    {
+        foreach (var c in Path.GetInvalidFileNameChars()) name = name.Replace(c, '_');
+        name = name.Trim().TrimEnd('.');
+        return string.IsNullOrWhiteSpace(name) ? "download.bin" : name;
+    }
+
+    private string? GetCachedFinalPath(string statePath, string partialPath, RemoteInfo remote)
+    {
+        if (!File.Exists(statePath) || !File.Exists(partialPath)) return null;
+        try
+        {
+            var state = JsonSerializer.Deserialize<DownloadState>(File.ReadAllText(statePath));
+            if (state is null || state.Url != _source.ToString() || state.TotalLength != remote.Length || string.IsNullOrWhiteSpace(state.FinalPath)) return null;
+            var requestedFolder = Path.GetFullPath(_folder).TrimEnd(Path.DirectorySeparatorChar);
+            var stateFolder = Path.GetFullPath(Path.GetDirectoryName(state.FinalPath)!).TrimEnd(Path.DirectorySeparatorChar);
+            if (!string.Equals(requestedFolder, stateFolder, StringComparison.OrdinalIgnoreCase)) return null;
+            lock (DestinationLock) ReservedDestinations.Add(state.FinalPath);
+            return state.FinalPath;
+        }
+        catch { return null; }
+    }
+
+    private static string GetAvailableDestinationPath(string folder, string name)
+    {
+        lock (DestinationLock)
+        {
+            var stem = Path.GetFileNameWithoutExtension(name); var ext = Path.GetExtension(name);
+            for (var i = 0; i < 10_000; i++)
+            {
+                var candidate = Path.Combine(folder, i == 0 ? name : $"{stem} ({i}){ext}");
+                if (File.Exists(candidate) || File.Exists(candidate + ".velocity.part") || File.Exists(candidate + ".velocity.json") || ReservedDestinations.Contains(candidate)) continue;
+                ReservedDestinations.Add(candidate);
+                return candidate;
+            }
+            var fallback = Path.Combine(folder, $"{stem}-{Guid.NewGuid():N}{ext}");
+            ReservedDestinations.Add(fallback);
+            return fallback;
+        }
+    }
+
+    private static CachePaths GetCachePaths(Uri source, string folder)
+    {
+        var normalizedFolder = Path.GetFullPath(folder).TrimEnd(Path.DirectorySeparatorChar).ToUpperInvariant();
+        var keyBytes = SHA256.HashData(Encoding.UTF8.GetBytes(source + "\n" + normalizedFolder));
+        var key = Convert.ToHexString(keyBytes).ToLowerInvariant();
+        var directory = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "VelocityDownload", "Cache");
+        return new CachePaths(directory, Path.Combine(directory, key + ".json"), Path.Combine(directory, key + ".part"));
+    }
+
+    private static async Task<string> FinalizeDownloadAsync(string partialPath, string requestedPath)
+    {
+        var destination = requestedPath;
+        if (File.Exists(destination)) destination = GetAvailableDestinationPath(Path.GetDirectoryName(destination)!, Path.GetFileName(destination));
+        var sourceRoot = Path.GetPathRoot(Path.GetFullPath(partialPath));
+        var destinationRoot = Path.GetPathRoot(Path.GetFullPath(destination));
+        if (string.Equals(sourceRoot, destinationRoot, StringComparison.OrdinalIgnoreCase))
+        {
+            File.Move(partialPath, destination, false);
+            return destination;
+        }
+
+        var staging = Path.Combine(Path.GetDirectoryName(destination)!, $".{Path.GetFileName(destination)}.{Guid.NewGuid():N}.velocity-finalizing");
+        try
+        {
+            await using (var input = new FileStream(partialPath, FileMode.Open, FileAccess.Read, FileShare.Read, 1024 * 1024, FileOptions.Asynchronous | FileOptions.SequentialScan))
+            await using (var output = new FileStream(staging, FileMode.CreateNew, FileAccess.Write, FileShare.Read, 1024 * 1024, FileOptions.Asynchronous | FileOptions.SequentialScan))
+            {
+                try { File.SetAttributes(staging, FileAttributes.Hidden | FileAttributes.Temporary); } catch { }
+                await input.CopyToAsync(output);
+                await output.FlushAsync();
+            }
+            try { File.SetAttributes(staging, FileAttributes.Normal); } catch { }
+            File.Move(staging, destination, false);
+            File.Delete(partialPath);
+            return destination;
+        }
+        catch
+        {
+            if (File.Exists(staging)) File.Delete(staging);
+            throw;
+        }
+    }
+}
+
+internal sealed class DownloadState
+{
+    public string Url { get; set; } = "";
+    public string FinalPath { get; set; } = "";
+    public string PartialPath { get; set; } = "";
+    public string StatePath { get; set; } = "";
+    public long TotalLength { get; set; }
+    public bool UsingRanges { get; set; }
+    public List<SegmentState> Segments { get; set; } = [];
+}
+
+internal sealed class SegmentState
+{
+    public long Start { get; set; }
+    public long End { get; set; }
+    public long Downloaded { get; set; }
+    public bool Complete { get; set; }
+}
+
+internal readonly record struct RemoteInfo(string FileName, long Length, bool SupportsRanges);
+internal readonly record struct CachePaths(string Directory, string StatePath, string PartialPath);
+internal readonly record struct DownloadProgress(string FileName, long Downloaded, long Total, double BytesPerSecond, bool UsingRanges, int ActiveConnections);
+
+internal sealed class SmoothProgressBar : Control
+{
+    private int _value;
+    [Browsable(false)]
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+    public int Value { get => _value; set { _value = Math.Clamp(value, 0, 1000); Invalidate(); } }
+    public SmoothProgressBar() { SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.UserPaint | ControlStyles.OptimizedDoubleBuffer, true); }
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        e.Graphics.Clear(BackColor);
+        if (_value <= 0) return;
+        var width = (int)(ClientSize.Width * (_value / 1000d));
+        using var brush = new SolidBrush(ForeColor);
+        e.Graphics.FillRectangle(brush, 0, 0, width, ClientSize.Height);
+    }
+}
+
+internal static class ControlExtensions
+{
+    public static T With<T>(this T value, Action<T> action) { action(value); return value; }
+}

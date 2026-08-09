@@ -211,6 +211,515 @@ internal sealed class MainForm : Form
             MessageBox.Show(this, "Ð’ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¿Ñ€ÑÐ¼ÑƒÑŽ ÑÑÑ‹Ð»ÐºÑƒ, Ð½Ð°Ñ‡Ð¸Ð½Ð°ÑŽÑ‰ÑƒÑŽÑÑ Ñ http:// Ð¸Ð»Ð¸ https://", "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Information);
             return;
         }
-ß®»¶‰žËkºwµç}É•Íå¹Œ ¤(€€€ì(€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹½¹¹•Ñ¥¹œì(€€€€€€€}ÍÑ…ÑÕÌ¹Q•áÐ€ô€‹BBûBÓBëBïF;FB×B÷BãBÔƒBèƒFB×FBËB×FFŠ˜ˆì}ÍÑ…ÑÕÌ¹½É•½±½È€ô5ÕÑ•ì(€€€€€€€}Á…ÕÍ”¹Q•áÐ€ô€‹BBÃFBßBÀˆì}Á…ÕÍ”¹¹…‰±•€ôÑÉÕ”ì(€€€€€€€}•¹¥¹”€ô¹•Ü½Ý¹±½…‘¹¥¹”¡}ÕÉ°°}™½±‘•È°}½¹¹•Ñ¥½¹Ì¤ì(€€€€€€€}ÑÌ€ô¹•Ü…¹•±±…Ñ¥½¹Q½­•¹M½ÕÉ” ¤ì(€€€€€€€}Ñ¥µ•È¹MÑ…ÉÐ ¤ìMÑ…ÑÕÍ¡…¹•ü¹%¹Ù½­”¡Ñ¡¥Ì°Ù•¹ÑÉÌ¹µÁÑä¤ì(€€€€€€€ÑÉä(€€€€€€€ì(€€€€€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹IÕ¹¹¥¹œì(€€€€€€€€€€€}½µÁ±•Ñ•‘A…Ñ €ô…Ý…¥Ð}•¹¥¹”¹IÕ¹Íå¹Œ¡}ÑÌ¹Q½­•¸¤ì(€€€€€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹½µÁ±•Ñ•ì(€€€€€€€€€€€}ÁÉ½É•ÍÌ¹Y…±Õ”€ô€Äì(€€€€€€€€€€€}¹…µ”¹Q•áÐ€ôA…Ñ ¹•Ñ¥±•9…µ”¡}½µÁ±•Ñ•‘A…Ñ ¤ì(€€€€€€€€€€€}ÍÑ…ÑÕÌ¹Q•áÐ€ô€‹B_BÃBËB×FF#B×B÷Bøˆì}ÍÑ…ÑÕÌ¹½É•½±½È€ôMÕ•ÍÌì(€€€€€€€€€€€}Á…ÕÍ”¹Q•áÐ€ô€‹BOBûFBûBËBøˆì}Á…ÕÍ”¹¹…‰±•€ô™…±Í”ì(€€€€€€€€€€€}½Á•¸¹¹…‰±•€ôÑÉÕ”ì(€€€€€€€ô(€€€€€€€…Ñ €¡=Á•É…Ñ¥½¹…¹•±•‘á•ÁÑ¥½¸¤(€€€€€€€ì(€€€€€€€€€€€¥˜€¡}‘¥Í…É‘I•ÅÕ•ÍÑ•ñð}±½Í¥¹œ¤É•ÑÕÉ¸ì(€€€€€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹A…ÕÍ•ì(€€€€€€€€€€€}ÍÑ…ÑÕÌ¹Q•áÐ€ô€‹BFBãBûFFBÃB÷BûBËBïB×B÷BøƒŠPƒBÿFBûBÏFB×FFƒFBûFFBÃB÷FGBôˆì}ÍÑ…ÑÕÌ¹½É•½±½È€ô5ÕÑ•ì(€€€€€€€€€€€}Á…ÕÍ”¹Q•áÐ€ô€‹BFBûBÓBûBïBÛBãFF0ˆì}Á…ÕÍ”¹¹…‰±•€ôÑÉÕ”ì(€€€€€€€ô(€€€€€€€…Ñ €¡á•ÁÑ¥½¸•à¤(€€€€€€€ì(€€€€€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹…¥±•ì(€€€€€€€€€€€}ÍÑ…ÑÕÌ¹Q•áÐ€ô€‹B{F#BãBÇBëBÀè€ˆ€¬•à¹5•ÍÍ…”ì}ÍÑ…ÑÕÌ¹½É•½±½È€ôÉÉ½Èì(€€€€€€€€€€€}Á…ÕÍ”¹Q•áÐ€ô€‹BBûBËFBûFBãFF0ˆì}Á…ÕÍ”¹¹…‰±•€ôÑÉÕ”ì(€€€€€€€ô(€€€€€€€™¥¹…±±ä(€€€€€€€ì(€€€€€€€€€€€}Ñ¥µ•È¹MÑ½À ¤ì(€€€€€€€€€€€¥˜€ …}‘¥Í…É‘I•ÅÕ•ÍÑ•€˜˜€…}±½Í¥¹œ¤ìI•™É•Í¡AÉ½É•ÍÌ ¤ìMÑ…ÑÕÍ¡…¹•ü¹%¹Ù½­”¡Ñ¡¥Ì°Ù•¹ÑÉÌ¹µÁÑä¤ìô(€€€€€€€ô(€€€ô((€€€ÁÕ‰±¥ŒÙ½¥A…ÕÍ•½Éá¥Ð ¤(€€€ì(€€€€€€€}±½Í¥¹œ€ôÑÉÕ”ì(€€€€€€€}ÑÌü¹…¹•° ¤ì(€€€ô((€€€ÁÕ‰±¥Œ…Íå¹ŒQ…Í¬¥Í…É‘Íå¹Œ ¤(€€€ì(€€€€€€€}‘¥Í…É‘I•ÅÕ•ÍÑ•€ôÑÉÕ”ì(€€€€€€€}ÑÌü¹…¹•° ¤ì(€€€€€€€¥˜€¡}ÕÉÉ•¹ÑIÕ¸¥Ì¹½Ð¹Õ±°¤(€€€€€€€ì(€€€€€€€€€€€ÑÉäì…Ý…¥Ð}ÕÉÉ•¹ÑIÕ¸ìô(€€€€€€€€€€€…Ñ ìô(€€€€€€€ô(€€€€€€€…Ý…¥Ð½Ý¹±½…‘¹¥¹”¹•±•Ñ•…¡•‘½Ý¹±½…‘Íå¹Œ¡}ÕÉ°°}™½±‘•È¤ì(€€€ô((€€€¥¹Ñ•É¹…°Ù½¥M•ÑAÉ•Ù¥•Ü¡ÍÑÉ¥¹œ¹…µ”°ÍÑÉ¥¹œÍÑ…ÑÕÌ°‘½Õ‰±”ÁÉ½É•ÍÌ°ÍÑÉ¥¹œÍ¥é”°ÍÑÉ¥¹œÍÁ••°ÍÑÉ¥¹œ•Ñ„°‰½½°½µÁ±•Ñ•°‘½Õ‰±”‰åÑ•ÍA•ÉM•½¹€ô€À¤(€€€ì(€€€€€€€}¹…µ”¹Q•áÐ€ô¹…µ”ì}ÍÑ…ÑÕÌ¹Q•áÐ€ôÍÑ…ÑÕÌì}ÁÉ½É•ÍÌ¹Y…±Õ”€ôÁÉ½É•ÍÌì}Í¥é”¹Q•áÐ€ôÍ¥é”ì}ÍÁ••¹Q•áÐ€ôÍÁ••ì}•Ñ„¹Q•áÐ€ô•Ñ„ì(€€€€€€€}ÕÉÉ•¹Ñ	åÑ•ÍA•ÉM•½¹€ô‰åÑ•ÍA•ÉM•½¹ì}Á•…­	åÑ•ÍA•ÉM•½¹€ô‰åÑ•ÍA•ÉM•½¹ì(€€€€€€€}ÍÑ…Ñ”€ô½µÁ±•Ñ•€ü…É‘MÑ…Ñ”¹½µÁ±•Ñ•€è…É‘MÑ…Ñ”¹IÕ¹¹¥¹œì(€€€€€€€}ÍÑ…ÑÕÌ¹½É•½±½È€ô½µÁ±•Ñ•€üMÕ•ÍÌ€è•¹Ðì(€€€€€€€}Á…ÕÍ”¹Q•áÐ€ô½µÁ±•Ñ•€ü€‹BOBûFBûBËBøˆ€è€‹BBÃFBßBÀˆì}Á…ÕÍ”¹¹…‰±•€ô€…½µÁ±•Ñ•ì(€€€ô((€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹1…å½ÕÐ¡1…å½ÕÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€‰…Í”¹=¹1…å½ÕÐ¡”¤ì(€€€€€€€Ù…È…Ñ¥½¹Í]¥‘Ñ €ô€ÈÌØì(€€€€€€€}¹…µ”¹M•Ñ	½Õ¹‘Ì ÈÀ°€ÄÔ°5…Ñ ¹5…à ÄÈÀ°]¥‘Ñ €´…Ñ¥½¹Í]¥‘Ñ €´€ÌÐ¤°€ÈÔ¤ì(€€€€€€€}ÍÑ…ÑÕÌ¹M•Ñ	½Õ¹‘Ì ÈÀ°€ÐÈ°5…Ñ ¹5…à ÄÈÀ°]¥‘Ñ €´…Ñ¥½¹Í]¥‘Ñ €´€ÌÐ¤°€ÈÈ¤ì(€€€€€€€}É•µ½Ù”¹M•Ñ	½Õ¹‘Ì¡]¥‘Ñ €´€Ðà°€ÄØ°€Èà°€Èà¤ì(€€€€€€€}½Á•¸¹M•Ñ	½Õ¹‘Ì¡]¥‘Ñ €´€ÄÈØ°€ÄØ°€ÜÀ°€ÌÀ¤ì(€€€€€€€}Á…ÕÍ”¹M•Ñ	½Õ¹‘Ì¡]¥‘Ñ €´€ÈÈÐ°€ÄØ°€äÀ°€ÌÀ¤ì(€€€€€€€}ÁÉ½É•ÍÌ¹M•Ñ	½Õ¹‘Ì ÈÀ°€ÜÈ°5…Ñ ¹5…à ÄÀÀ°]¥‘Ñ €´€ÐÀ¤°€Ü¤ì(€€€€€€€}Í¥é”¹M•Ñ	½Õ¹‘Ì ÈÀ°€àà°€ÈÌÀ°€ÈÈ¤ì(€€€€€€€}ÍÁ••¹M•Ñ	½Õ¹‘Ì¡5…Ñ ¹5…à ÈÔÔ°]¥‘Ñ €¼€È€´€àÀ¤°€àà°€ÄØÀ°€ÈÈ¤ì(€€€€€€€}•Ñ„¹M•Ñ	½Õ¹‘Ì¡5…Ñ ¹5…à ÐÌÀ°]¥‘Ñ €´€ÈÔÀ¤°€àà°€ÈÌÀ°€ÈÈ¤ì}•Ñ„¹Q•áÑ±¥¸€ô½¹Ñ•¹Ñ±¥¹µ•¹Ð¹5¥‘‘±•I¥¡Ðì(€€€ô((€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ð¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€”¹É…Á¡¥Ì¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ìì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ…Ñ €ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• À¸Õ˜°€À¸Õ˜°]¥‘Ñ €´€Ä°!•¥¡Ð€´€È¤°€ÄÀ¤ì(€€€€€€€ÕÍ¥¹œÙ…È™¥±°€ô¹•ÜM½±¥‘	ÉÕÍ ¡…É‘	œ¤ìÕÍ¥¹œÙ…ÈÁ•¸€ô¹•ÜA•¸¡	½É‘•È¤ì(€€€€€€€”¹É…Á¡¥Ì¹¥±±A…Ñ ¡™¥±°°Á…Ñ ¤ì”¹É…Á¡¥Ì¹É…ÝA…Ñ ¡Á•¸°Á…Ñ ¤ì(€€€ô((€€€ÁÉ¥Ù…Ñ”…Íå¹ŒQ…Í¬Q½±•A…ÕÍ•Íå¹Œ ¤(€€€ì(€€€€€€€¥˜€¡}ÍÑ…Ñ”¥Ì…É‘MÑ…Ñ”¹A…ÕÍ•½È…É‘MÑ…Ñ”¹…¥±•¤ì…Ý…¥ÐMÑ…ÉÑÍå¹Œ ¤ìÉ•ÑÕÉ¸ìô(€€€€€€€¥˜€ …%ÍÑ¥Ù”¤É•ÑÕÉ¸ì(€€€€€€€}ÍÑ…Ñ”€ô…É‘MÑ…Ñ”¹A…ÕÍ¥¹œì}Á…ÕÍ”¹¹…‰±•€ô™…±Í”ì}ÍÑ…ÑÕÌ¹Q•áÐ€ô€‹B‡BûFFBÃB÷F?B×BðƒBÿFBûBÏFB×FFŠ˜ˆì(€€€€€€€}ÑÌü¹…¹•° ¤ìMÑ…ÑÕÍ¡…¹•ü¹%¹Ù½­”¡Ñ¡¥Ì°Ù•¹ÑÉÌ¹µÁÑä¤ì(€€€ô((€€€ÁÉ¥Ù…Ñ”Ù½¥I•™É•Í¡AÉ½É•ÍÌ ¤(€€€ì(€€€€€€€¥˜€¡}•¹¥¹”¥Ì¹Õ±°¤É•ÑÕÉ¸ì(€€€€€€€Ù…ÈÀ€ô}•¹¥¹”¹•ÑAÉ½É•ÍÌ ¤ì(€€€€€€€}ÕÉÉ•¹Ñ	åÑ•ÍA•ÉM•½¹€ôÀ¹	åÑ•ÍA•ÉM•½¹ì(€€€€€€€}Á•…­	åÑ•ÍA•ÉM•½¹€ô5…Ñ ¹5…à¡}Á•…­	åÑ•ÍA•ÉM•½¹°À¹	åÑ•ÍA•ÉM•½¹¤ì(€€€€€€€¥˜€ …ÍÑÉ¥¹œ¹%Í9Õ±±=É]¡¥Ñ•MÁ…”¡À¹¥±•9…µ”¤¤}¹…µ”¹Q•áÐ€ôÀ¹¥±•9…µ”ì(€€€€€€€}Í¥é”¹Q•áÐ€ô€‰íY…±Õ•½Éµ…Ð¹	åÑ•Ì¡À¹½Ý¹±½…‘•¥ô€¼ì¡À¹Q½Ñ…°€ø€À€üY…±Õ•½Éµ…Ð¹	åÑ•Ì¡À¹Q½Ñ…°¤€è€‹B÷B×BãBßBËB×FFB÷Bøˆ¥ôˆì(€€€€€€€}ÍÁ••¹Q•áÐ€ôÀ¹	åÑ•ÍA•ÉM•½¹€ø€À€ü€‰íY…±Õ•½Éµ…Ð¹	åÑ•Ì ¡±½¹œ¥À¹	åÑ•ÍA•ÉM•½¹¥ô¿Fˆ€è€ˆˆì(€€€€€€€¥˜€¡À¹Q½Ñ…°€ø€À¤(€€€€€€€ì(€€€€€€€€€€€}ÁÉ½É•ÍÌ¹Y…±Õ”€ô5…Ñ ¹±…µÀ ¡‘½Õ‰±”¥À¹½Ý¹±½…‘•€¼À¹Q½Ñ…°°€À°€Ä¤ì(€€€€€€€€€€€¥˜€¡À¹	åÑ•ÍA•ÉM•½¹€ø€Ä€˜˜À¹½Ý¹±½…‘•€ðÀ¹Q½Ñ…°¤(€€€€€€€€€€€€€€€}•Ñ„¹Q•áÐ€ô€‹B{FFBÃBïBûFF0€ˆ€¬Y…±Õ•½Éµ…Ð¹ÕÉ…Ñ¥½¸¡Q¥µ•MÁ…¸¹É½µM•½¹‘Ì ¡À¹Q½Ñ…°€´À¹½Ý¹±½…‘•¤€¼À¹	åÑ•ÍA•ÉM•½¹¤¤ì(€€€€€€€ô(€€€€€€€¥˜€¡}ÍÑ…Ñ”€ôô…É‘MÑ…Ñ”¹IÕ¹¹¥¹œ¤(€€€€€€€ì(€€€€€€€€€€€}ÍÑ…ÑÕÌ¹Q•áÐ€ôÀ¹UÍ¥¹I…¹•Ì€ü€‹B_BÃBÏFFBßBëBÀƒ
-Üí5…Ñ ¹5…à Ä°À¹Ñ¥Ù•½¹¹•Ñ¥½¹Ì¥ôƒFBûB×BÓBãB÷B×B÷BãBäˆ€è€‹B_BÃBÏFFBßBëBÀƒ
-ÜƒBûBÓBãBôƒBÿBûFBûBèˆì(€€€€€€€€€€€}ÍÑ…ÑÕÌ¹½É•½±½È€ô•¹Ðì(€€€€€€€ô(€€€ô((€€€ÁÉ¥Ù…Ñ”Ù½¥=Á•¹½±‘•È ¤(€€€ì(€€€€€€€Ù…È™½±‘•È€ô}½µÁ±•Ñ•‘A…Ñ ¥Ì¹½Ð¹Õ±°€üA…Ñ ¹•Ñ¥É•Ñ½Éå9…µ”¡}½µÁ±•Ñ•‘A…Ñ ¤„€è}™½±‘•Èì(€€€€€€€¥˜€¡¥É•Ñ½Éä¹á¥ÍÑÌ¡™½±‘•È¤¤AÉ½•ÍÌ¹MÑ…ÉÐ¡¹•ÜAÉ½•ÍÍMÑ…ÉÑ%¹™¼ ‰•áÁ±½É•È¹•á”ˆ°€‰p‰í™½±‘•Éõpˆˆ¤ìUÍ•M¡•±±á•ÕÑ”€ôÑÉÕ”ô¤ì(€€€ô)ô()¥¹Ñ•É¹…°Í•…±•±…ÍÌ±Õ•¹Ñ	ÕÑÑ½¸€è½¹ÑÉ½°)ì(€€€ÁÉ¥Ù…Ñ”‰½½°}¡½Ù•Èì(€€€ÁÉ¥Ù…Ñ”‰½½°}ÁÉ•ÍÍ•ì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½È¥±±½±½Èì•ÐìÍ•Ðìô(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½È!½Ù•É½±½Èì•ÐìÍ•Ðìô(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½ÈQ•áÑ½±½Èì•ÐìÍ•Ðìô(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½È	½É‘•É½±½Èì•ÐìÍ•Ðìô€ô½±½È¹QÉ…¹ÍÁ…É•¹Ðì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ¥¹ÐI…‘¥ÕÌì•ÐìÍ•Ðìô€ô€Øì((€€€ÁÕ‰±¥Œ±Õ•¹Ñ	ÕÑÑ½¸¡ÍÑÉ¥¹œÑ•áÐ°½±½È™¥±°°½±½ÈÑ•áÑ½±½È¤(€€€ì(€€€€€€€Q•áÐ€ôÑ•áÐì¥±±½±½È€ô™¥±°ì!½Ù•É½±½È€ô™¥±°€ôô½±½È¹QÉ…¹ÍÁ…É•¹Ð€ü½±½È¹É½µÉˆ ÈÌÔ°€ÈÌÔ°€ÈÌÔ¤€è½¹ÑÉ½±A…¥¹Ð¹…É¬¡™¥±°°€¸ÀÑ˜¤ìQ•áÑ½±½È€ôÑ•áÑ½±½Èì(€€€€€€€½¹Ð€ô5…¥¹½É´¹U¥½¹Ð ä°½¹ÑMÑå±”¹I•Õ±…È¤ìÕÉÍ½È€ôÕÉÍ½ÉÌ¹!…¹ì•ÍÍ¥‰±•I½±”€ô•ÍÍ¥‰±•I½±”¹AÕÍ¡	ÕÑÑ½¸ìQ…‰MÑ½À€ôÑÉÕ”ì(€€€€€€€M•ÑMÑå±”¡½¹ÑÉ½±MÑå±•Ì¹±±A…¥¹Ñ¥¹%¹]µA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹=ÁÑ¥µ¥é•‘½Õ‰±•	Õ™™•Èð½¹ÑÉ½±MÑå±•Ì¹UÍ•ÉA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹I•Í¥é•I•‘É…Üð½¹ÑÉ½±MÑå±•Ì¹MÕÁÁ½ÉÑÍQÉ…¹ÍÁ…É•¹Ñ	…­½±½È°ÑÉÕ”¤ì(€€€ô((€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹5½ÕÍ•¹Ñ•È¡Ù•¹ÑÉÌ”¤ì}¡½Ù•È€ôÑÉÕ”ì%¹Ù…±¥‘…Ñ” ¤ì‰…Í”¹=¹5½ÕÍ•¹Ñ•È¡”¤ìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹5½ÕÍ•1•…Ù”¡Ù•¹ÑÉÌ”¤ì}¡½Ù•È€ô}ÁÉ•ÍÍ•€ô™…±Í”ì%¹Ù…±¥‘…Ñ” ¤ì‰…Í”¹=¹5½ÕÍ•1•…Ù”¡”¤ìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹5½ÕÍ•½Ý¸¡5½ÕÍ•Ù•¹ÑÉÌ”¤ì¥˜€¡”¹	ÕÑÑ½¸€ôô5½ÕÍ•	ÕÑÑ½¹Ì¹1•™Ð¤}ÁÉ•ÍÍ•€ôÑÉÕ”ì%¹Ù…±¥‘…Ñ” ¤ì‰…Í”¹=¹5½ÕÍ•½Ý¸¡”¤ìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹5½ÕÍ•UÀ¡5½ÕÍ•Ù•¹ÑÉÌ”¤ì}ÁÉ•ÍÍ•€ô™…±Í”ì%¹Ù…±¥‘…Ñ” ¤ì‰…Í”¹=¹5½ÕÍ•UÀ¡”¤ìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹-•å½Ý¸¡-•åÙ•¹ÑÉÌ”¤ì¥˜€¡”¹-•å½‘”¥Ì-•åÌ¹¹Ñ•È½È-•åÌ¹MÁ…”¤ì=¹±¥¬¡Ù•¹ÑÉÌ¹µÁÑä¤ì”¹!…¹‘±•€ôÑÉÕ”ìô‰…Í”¹=¹-•å½Ý¸¡”¤ìô((€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ð¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€”¹É…Á¡¥Ì¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ìì(€€€€€€€”¹É…Á¡¥Ì¹±•…È¡A…É•¹Ðü¹	…­½±½È€üüMåÍÑ•µ½±½ÉÌ¹½¹ÑÉ½°¤ì(€€€€€€€Ù…È™¥±°€ô€…¹…‰±•€ü½±½È¹É½µÉˆ ÈÌÔ°€ÈÌÔ°€ÈÌÔ¤€è}ÁÉ•ÍÍ•€ü½¹ÑÉ½±A…¥¹Ð¹…É¬¡¥±±½±½È€ôô½±½È¹QÉ…¹ÍÁ…É•¹Ð€ü!½Ù•É½±½È€è¥±±½±½È°€¸Àá˜¤€è}¡½Ù•È€ü!½Ù•É½±½È€è¥±±½±½Èì(€€€€€€€Ù…ÈÑ•áÐ€ô¹…‰±•€üQ•áÑ½±½È€è½±½È¹É½µÉˆ ÄÔÀ°€ÄÔÀ°€ÄÔÀ¤ì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ…Ñ €ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• ¸Õ˜°€¸Õ˜°]¥‘Ñ €´€Ä°!•¥¡Ð€´€Ä¤°I…‘¥ÕÌ¤ì(€€€€€€€¥˜€¡™¥±°€„ô½±½È¹QÉ…¹ÍÁ…É•¹Ð¤ìÕÍ¥¹œÙ…È‰ÉÕÍ €ô¹•ÜM½±¥‘	ÉÕÍ ¡™¥±°¤ì”¹É…Á¡¥Ì¹¥±±A…Ñ ¡‰ÉÕÍ °Á…Ñ ¤ìô(€€€€€€€¥˜€¡	½É‘•É½±½È€„ô½±½È¹QÉ…¹ÍÁ…É•¹Ð¤ìÕÍ¥¹œÙ…ÈÁ•¸€ô¹•ÜA•¸¡	½É‘•É½±½È¤ì”¹É…Á¡¥Ì¹É…ÝA…Ñ ¡Á•¸°Á…Ñ ¤ìô(€€€€€€€Q•áÑI•¹‘•É•È¹É…ÝQ•áÐ¡”¹É…Á¡¥Ì°Q•áÐ°½¹Ð°±¥•¹ÑI•Ñ…¹±”°Ñ•áÐ°Q•áÑ½Éµ…Ñ±…Ì¹!½É¥é½¹Ñ…±•¹Ñ•ÈðQ•áÑ½Éµ…Ñ±…Ì¹Y•ÉÑ¥…±•¹Ñ•ÈðQ•áÑ½Éµ…Ñ±…Ì¹¹‘±±¥ÁÍ¥Ì¤ì(€€€€€€€¥˜€¡½ÕÍ•¤½¹ÑÉ½±A…¥¹Ð¹É…Ý½ÕÍI•Ñ…¹±”¡”¹É…Á¡¥Ì°I•Ñ…¹±”¹%¹™±…Ñ”¡±¥•¹ÑI•Ñ…¹±”°€´Ì°€´Ì¤¤ì(€€€ô)ô()¥¹Ñ•É¹…°Í•…±•±…ÍÌI½Õ¹‘•‘A…¹•°€èA…¹•°)ì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½È¥±±½±½Èì•ÐìÍ•Ðìô€ô½±½È¹]¡¥Ñ”ì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ½±½È	½É‘•É½±½Èì•ÐìÍ•Ðìô€ô½±½È¹QÉ…¹ÍÁ…É•¹Ðì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ¥¹ÐI…‘¥ÕÌì•ÐìÍ•Ðìô€ô€àì(€€€ÁÕ‰±¥ŒI½Õ¹‘•‘A…¹•° ¤(€€€ì(€€€€€€€M•ÑMÑå±”¡½¹ÑÉ½±MÑå±•Ì¹±±A…¥¹Ñ¥¹%¹]µA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹=ÁÑ¥µ¥é•‘½Õ‰±•	Õ™™•Èð½¹ÑÉ½±MÑå±•Ì¹UÍ•ÉA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹I•Í¥é•I•‘É…Ü°ÑÉÕ”¤ì(€€€€€€€½Õ‰±•	Õ™™•É•€ôÑÉÕ”ì(€€€ô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹I•Í¥é”¡Ù•¹ÑÉÌ•Ù•¹Ñ…ÉÌ¤(€€€ì(€€€€€€€‰…Í”¹=¹I•Í¥é”¡•Ù•¹Ñ…ÉÌ¤ì(€€€€€€€¥˜€¡]¥‘Ñ €ðô€Àñð!•¥¡Ð€ðô€À¤É•ÑÕÉ¸ì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ…Ñ €ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• À°€À°]¥‘Ñ °!•¥¡Ð¤°I…‘¥ÕÌ¤ì(€€€€€€€Ù…È½±‘I•¥½¸€ôI•¥½¸ì(€€€€€€€I•¥½¸€ô¹•ÜI•¥½¸¡Á…Ñ ¤ì(€€€€€€€½±‘I•¥½¸ü¹¥ÍÁ½Í” ¤ì(€€€€€€€%¹Ù…±¥‘…Ñ” ¤ì(€€€ô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ñ	…­É½Õ¹¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€”¹É…Á¡¥Ì¹±•…È¡¥±±½±½È¤ì(€€€ô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ð¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€‰…Í”¹=¹A…¥¹Ð¡”¤ì(€€€€€€€¥˜€¡	½É‘•É½±½È€ôô½±½È¹QÉ…¹ÍÁ…É•¹Ð¤É•ÑÕÉ¸ì(€€€€€€€”¹É…Á¡¥Ì¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ìì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ…Ñ €ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• ¸Õ˜°€¸Õ˜°]¥‘Ñ €´€Ä¸Õ˜°!•¥¡Ð€´€Ä¸Õ˜¤°I…‘¥ÕÌ¤ì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ•¸€ô¹•ÜA•¸¡	½É‘•É½±½È¤ì”¹É…Á¡¥Ì¹É…ÝA…Ñ ¡Á•¸°Á…Ñ ¤ì(€€€ô)ô()¥¹Ñ•É¹…°Í•…±•±…ÍÌ±Õ•¹ÑAÉ½É•ÍÌ€è½¹ÑÉ½°)ì(€€€ÁÉ¥Ù…Ñ”‘½Õ‰±”}Ù…±Õ”ì(€€€m	É½ÝÍ…‰±”¡™…±Í”¤°•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¡•Í¥¹•ÉM•É¥…±¥é…Ñ¥½¹Y¥Í¥‰¥±¥Ñä¹!¥‘‘•¸¥tÁÕ‰±¥Œ‘½Õ‰±”Y…±Õ”ì•Ð€ôø}Ù…±Õ”ìÍ•Ðì}Ù…±Õ”€ô5…Ñ ¹±…µÀ¡Ù…±Õ”°€À°€Ä¤ì%¹Ù…±¥‘…Ñ” ¤ìôô(€€€ÁÕ‰±¥Œ±Õ•¹ÑAÉ½É•ÍÌ ¤ìM•ÑMÑå±”¡½¹ÑÉ½±MÑå±•Ì¹±±A…¥¹Ñ¥¹%¹]µA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹=ÁÑ¥µ¥é•‘½Õ‰±•	Õ™™•Èð½¹ÑÉ½±MÑå±•Ì¹UÍ•ÉA…¥¹Ð°ÑÉÕ”¤ìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ð¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€”¹É…Á¡¥Ì¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ìì(€€€€€€€”¹É…Á¡¥Ì¹±•…È¡A…É•¹Ðü¹	…­½±½È€üü½±½È¹QÉ…¹ÍÁ…É•¹Ð¤ì(€€€€€€€ÕÍ¥¹œÙ…ÈÑÉ…¬€ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡±¥•¹ÑI•Ñ…¹±”°!•¥¡Ð€¼€É˜¤ìÕÍ¥¹œÙ…ÈÑÉ…­	ÉÕÍ €ô¹•ÜM½±¥‘	ÉÕÍ ¡½±½È¹É½µÉˆ ÈÈÔ°€ÈÈÔ°€ÈÈÔ¤¤ì”¹É…Á¡¥Ì¹¥±±A…Ñ ¡ÑÉ…­	ÉÕÍ °ÑÉ…¬¤ì(€€€€€€€¥˜€¡}Ù…±Õ”€ðô€À¤É•ÑÕÉ¸ì(€€€€€€€Ù…ÈÝ¥‘Ñ €ô5…Ñ ¹5…à¡!•¥¡Ð°€¡™±½…Ð¤¡]¥‘Ñ €¨}Ù…±Õ”¤¤ì(€€€€€€€ÕÍ¥¹œÙ…È™¥±°€ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• À°€À°Ý¥‘Ñ °!•¥¡Ð¤°!•¥¡Ð€¼€É˜¤ìÕÍ¥¹œÙ…È…•¹Ð€ô¹•ÜM½±¥‘	ÉÕÍ ¡½±½È¹É½µÉˆ À°€ÄÀÌ°€ÄäÈ¤¤ì”¹É…Á¡¥Ì¹¥±±A…Ñ ¡…•¹Ð°™¥±°¤ì(€€€ô)ô()¥¹Ñ•É¹…°Í•…±•±…ÍÌ±Õ•¹ÑÁÁ%½¸€è½¹ÑÉ½°)ì(€€€ÁÕ‰±¥Œ±Õ•¹ÑÁÁ%½¸ ¤ìM•ÑMÑå±”¡½¹ÑÉ½±MÑå±•Ì¹±±A…¥¹Ñ¥¹%¹]µA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹=ÁÑ¥µ¥é•‘½Õ‰±•	Õ™™•Èð½¹ÑÉ½±MÑå±•Ì¹UÍ•ÉA…¥¹Ðð½¹ÑÉ½±MÑå±•Ì¹MÕÁÁ½ÉÑÍQÉ…¹ÍÁ…É•¹Ñ	…­½±½È°ÑÉÕ”¤ì	…­½±½È€ô½±½È¹QÉ…¹ÍÁ…É•¹Ðìô(€€€ÁÉ½Ñ•Ñ•½Ù•ÉÉ¥‘”Ù½¥=¹A…¥¹Ð¡A…¥¹ÑÙ•¹ÑÉÌ”¤(€€€ì(€€€€€€€”¹É…Á¡¥Ì¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ìì(€€€€€€€ÕÍ¥¹œÙ…È‰A…Ñ €ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• Ä°€Ä°]¥‘Ñ €´€È°!•¥¡Ð€´€È¤°€ÄÀ¤ìÕÍ¥¹œÙ…È‰œ€ô¹•ÜM½±¥‘	ÉÕÍ ¡½±½È¹É½µÉˆ À°€ÄÀÌ°€ÄäÈ¤¤ì”¹É…Á¡¥Ì¹¥±±A…Ñ ¡‰œ°‰A…Ñ ¤ì(€€€€€€€ÕÍ¥¹œÙ…ÈÁ•¸€ô¹•ÜA•¸¡½±½È¹]¡¥Ñ”°€Ì¤ìMÑ…ÉÑ…À€ô1¥¹•…À¹I½Õ¹°¹‘…À€ô1¥¹•…À¹I½Õ¹ôì(€€€€€€€”¹É…Á¡¥Ì¹É…Ý1¥¹”¡Á•¸°]¥‘Ñ €¼€É˜°€ÄÀ°]¥‘Ñ €¼€É˜°€Èà¤ì(€€€€€€€”¹É…Á¡¥Ì¹É…Ý1¥¹”¡Á•¸°€ÄÔ°€ÈÌ°]¥‘Ñ €¼€É˜°€ÌÄ¤ì(€€€€€€€”¹É…Á¡¥Ì¹É…Ý1¥¹”¡Á•¸°]¥‘Ñ €¼€É˜°€ÌÄ°€Èä°€ÈÌ¤ì(€€€€€€€”¹É…Á¡¥Ì¹É…Ý1¥¹”¡Á•¸°€ÄÐ°€ÌÔ°€ÌÀ°€ÌÔ¤ì(€€€ô)ô()¥¹Ñ•É¹…°Í•…±•±…ÍÌMµ½½Ñ¡±½ÝA…¹•°€è±½Ý1…å½ÕÑA…¹•°)ì(€€€ÁÕ‰±¥ŒMµ½½Ñ¡±½ÝA…¹•° ¤ì½Õ‰±•	Õ™™•É•€ôÑÉÕ”ìô)ô()¥¹Ñ•É¹…°ÍÑ…Ñ¥Œ±…ÍÌÉ…Ý¥¹UÑ¥°)ì(€€€ÁÕ‰±¥ŒÍÑ…Ñ¥ŒÉ…Á¡¥ÍA…Ñ I½Õ¹‘I•Ð¡I•Ñ…¹±•É•Ð°™±½…ÐÉ…‘¥ÕÌ¤(€€€ì(€€€€€€€Ù…ÈÁ…Ñ €ô¹•ÜÉ…Á¡¥ÍA…Ñ  ¤ìÙ…È€ô5…Ñ ¹5¥¸¡É…‘¥ÕÌ€¨€È°5…Ñ ¹5¥¸¡É•Ð¹]¥‘Ñ °É•Ð¹!•¥¡Ð¤¤ì(€€€€€€€Á…Ñ ¹‘‘ÉŒ¡É•Ð¹`°É•Ð¹d°°°€ÄàÀ°€äÀ¤ìÁ…Ñ ¹‘‘ÉŒ¡É•Ð¹I¥¡Ð€´°É•Ð¹d°°°€ÈÜÀ°€äÀ¤ì(€€€€€€€Á…Ñ ¹‘‘ÉŒ¡É•Ð¹I¥¡Ð€´°É•Ð¹	½ÑÑ½´€´°°°€À°€äÀ¤ìÁ…Ñ ¹‘‘ÉŒ¡É•Ð¹`°É•Ð¹	½ÑÑ½´€´°°°€äÀ°€äÀ¤ìÁ…Ñ ¹±½Í•¥ÕÉ” ¤ì(€€€€€€€É•ÑÕÉ¸Á…Ñ ì(€€€ô)ô()¥¹Ñ•É¹…°ÍÑ…Ñ¥Œ±…ÍÌY…±Õ•½Éµ…Ð)ì(€€€ÁÕ‰±¥ŒÍÑ…Ñ¥ŒÍÑÉ¥¹œ	åÑ•Ì¡±½¹œÙ…±Õ”¤(€€€ì(€€€€€€€ÍÑÉ¥¹mtÕ¹¥ÑÌ€ôl‹BDˆ°€‹BkBDˆ°€‹BsBDˆ°€‹BOBDˆ°€‹B‹BD‰tì‘½Õ‰±”Í¥é”€ô5…Ñ ¹5…à À°Ù…±Õ”¤ìÙ…È¤€ô€Àì(€€€€€€€Ý¡¥±”€¡Í¥é”€øô€ÄÀÈÐ€˜˜¤€ðÕ¹¥ÑÌ¹1•¹Ñ €´€Ä¤ìÍ¥é”€¼ô€ÄÀÈÐì¤¬¬ìô(€€€€€€€É•ÑÕÉ¸¤€ôô€À€ü€‰íÍ¥é”èÁôíÕ¹¥ÑÍm¥uôˆ€è€‰íÍ¥é”èÀ¸ŒôíÕ¹¥ÑÍm¥uôˆì(€€€ô(€€€ÁÕ‰±¥ŒÍÑ…Ñ¥ŒÍÑÉ¥¹œÕÉ…Ñ¥½¸¡Q¥µ•MÁ…¸Ð¤€ôøÐ¹Q½Ñ…±!½ÕÉÌ€øô€Ä€ü€‰ì¡¥¹Ð¥Ð¹Q½Ñ…±!½ÕÉÍôƒFíÐ¹5¥¹ÕÑ•ÍôƒBóBãBôˆ€èÐ¹Q½Ñ…±5¥¹ÕÑ•Ì€øô€Ä€ü€‰ì¡¥¹Ð¥Ð¹Q½Ñ…±5¥¹ÕÑ•ÍôƒBóBãBôíÐ¹M•½¹‘ÍôƒFB×Bèˆ€è€‰í5…Ñ ¹5…à À°Ð¹M•½¹‘Ì¥ôƒFB×Bèˆì)ô()¥¹Ñ•É¹…°ÍÑ…Ñ¥Œ±…ÍÌ±Õ•¹Ñ]¥¹‘½Ü)ì(€€€m±±%µÁ½ÉÐ ‰‘Ýµ…Á¤¹‘±°ˆ¥tÁÉ¥Ù…Ñ”ÍÑ…Ñ¥Œ•áÑ•É¸¥¹ÐÝµM•Ñ]¥¹‘½ÝÑÑÉ¥‰ÕÑ”¡%¹ÑAÑÈ¡Ý¹°¥¹Ð…ÑÑÉ¥‰ÕÑ”°É•˜¥¹ÐÙ…±Õ”°¥¹ÐÍ¥é”¤ì(€€€m±±%µÁ½ÉÐ ‰ÕÍ•ÈÌÈ¹‘±°ˆ¥tÁÉ¥Ù…Ñ”ÍÑ…Ñ¥Œ•áÑ•É¸‰½½°•ÍÑÉ½å%½¸¡%¹ÑAÑÈ¡…¹‘±”¤ì(€€€ÁÕ‰±¥ŒÍÑ…Ñ¥Œ%½¸É•…Ñ•ÁÁ%½¸ ¤(€€€ì(€€€€€€€ÕÍ¥¹œÙ…È‰¥Ñµ…À€ô¹•Ü	¥Ñµ…À ÌÈ°€ÌÈ¤ì(€€€€€€€ÕÍ¥¹œ€¡Ù…Èœ€ôÉ…Á¡¥Ì¹É½µ%µ…”¡‰¥Ñµ…À¤¤(€€€€€€€ì(€€€€€€€€€€€œ¹Mµ½½Ñ¡¥¹5½‘”€ôMµ½½Ñ¡¥¹5½‘”¹¹Ñ¥±¥…Ììœ¹±•…È¡½±½È¹QÉ…¹ÍÁ…É•¹Ð¤ì(€€€€€€€€€€€ÕÍ¥¹œÙ…ÈÍ¡…Á”€ôÉ…Ý¥¹UÑ¥°¹I½Õ¹‘I•Ð¡¹•ÜI•Ñ…¹±• Ä°€Ä°€ÌÀ°€ÌÀ¤°€Ü¤ìÕÍ¥¹œÙ…È‰±Õ”€ô¹•ÜM½±¥‘	ÉÕÍ ¡½±½È¹É½µÉˆ À°€ÄÀÌ°€ÄäÈ¤¤ìœ¹¥±±A…Ñ ¡‰±Õ”°Í¡…Á”¤ì(€€€€€€€€€€€ÕÍ¥¹œÙ…ÈÁ•¸€ô¹•ÜA•¸¡½±½È¹]¡¥Ñ”°€È¸Õ˜¤ìMÑ…ÉÑ…À€ô1¥¹•…À¹I½Õ¹°¹‘…À€ô1¥¹•…À¹I½Õ¹ôì(€€€€€€€€€€€œ¹É…Ý1¥¹”¡Á•¸°€ÄØ°€Ü°€ÄØ°€ÈÄ¤ìœ¹É…Ý1¥¹”¡Á•¸°€ÄÀ¸Õ˜°€ÄØ°€ÄØ°€ÈÈ¤ìœ¹É…Ý1¥¹”¡Á•¸°€ÄØ°€ÈÈ°€ÈÄ¸Õ˜°€ÄØ¤ìœ¹É…Ý1¥¹”¡Á•¸°€ä°€ÈØ°€ÈÌ°€ÈØ¤ì(€€€€€€€ô(€€€€€€€Ù…È¡…¹‘±”€ô‰¥Ñµ…À¹•Ñ!¥½¸ ¤ì(€€€€€€€ÑÉäìÕÍ¥¹œÙ…È¥½¸€ô%½¸¹É½µ!…¹‘±”¡¡…¹‘±”¤ìÉ•ÑÕÉ¸€¡%½¸¥¥½¸¹±½¹” ¤ìô(€€€€€€€™¥¹…±±äì•ÍÑÉ½å%½¸¡¡…¹‘±”¤ìô(€€€ô(€€€ÁÕ‰±¥ŒÍÑ…Ñ¥ŒÙ½¥ÁÁ±ä¡%¹ÑAÑÈ¡…¹‘±”¤(€€€ì(€€€€€€€¥˜€ …=Á•É…Ñ¥¹MåÍÑ•´¹%Í]¥¹‘½ÝÍY•ÉÍ¥½¹Ñ1•…ÍÐ ÄÀ°€À°€ÈÈÀÀÀ¤¤É•ÑÕÉ¸ì(€€€€€€€ÑÉä(€€€€€€€ì(€€€€€€€€€€€Ù…ÈÉ½Õ¹‘•€ô€ÈìÝµM•Ñ]¥¹‘½ÝÑÑÉ¥‰ÕÑ”¡¡…¹‘±”°€ÌÌ°É•˜É½Õ¹‘•°Í¥é•½˜¡¥¹Ð¤¤ì(€€€€€€€€€€€Ù…Èµ¥„€ô€ÈìÝµM•Ñ]¥¹‘½ÝÑÑÉ¥‰ÕÑ”¡¡…¹‘±”°€Ìà°É•˜µ¥„°Í¥é•½˜¡¥¹Ð¤¤ì(€€€€€€€€€€€Ù…È±¥¡Ð€ô€ÀìÝµM•Ñ]¥¹‘½ÝÑÑÉ¥‰ÕÑ”¡¡…¹‘±”°€ÈÀ°É•˜±¥¡Ð°Í¥é•½˜¡¥¹Ð¤¤ì(€€€€€€€ô(€€€€€€€…Ñ ìô(€€€ô)ô(
+        try { Directory.CreateDirectory(_folder.Text.Trim()); }
+        catch (Exception ex) { MessageBox.Show(this, "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ð¿ÐºÑƒ: " + ex.Message, "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Warning); return; }
+
+        _url.Clear();
+        foreach (var link in links)
+        {
+            if (_list.Controls.OfType<DownloadCard>().Any(x => x.SourceUrl == link && !x.IsCompleted)) continue;
+            var card = new DownloadCard(link, _folder.Text.Trim(), GetConnectionCount());
+            card.Width = CardWidth();
+            card.RemoveRequested += async (_, _) => await RemoveCardAsync(card);
+            card.StatusChanged += (_, _) => UpdateSummary();
+            _list.Controls.Add(card);
+            card.BringToFront();
+            _ = card.StartAsync();
+            await Task.Yield();
+        }
+        UpdateEmptyState();
+    }
+
+    private async Task RemoveCardAsync(DownloadCard card)
+    {
+        if (!card.IsCompleted)
+        {
+            var result = MessageBox.Show(this, "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ?\n\nÐ—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ð°Ñ Ñ‡Ð°ÑÑ‚ÑŒ Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ Ð±ÑƒÐ´ÑƒÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹ Ð±ÐµÐ· Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ.", "Velocity Download", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (result != DialogResult.Yes) return;
+        }
+        _list.Controls.Remove(card);
+        UpdateEmptyState();
+        await card.DiscardAsync();
+        card.Dispose();
+    }
+
+    private void ClearCompleted()
+    {
+        foreach (var card in _list.Controls.OfType<DownloadCard>().Where(x => x.IsCompleted).ToArray())
+        {
+            _list.Controls.Remove(card); card.Dispose();
+        }
+        UpdateEmptyState();
+    }
+
+    private void UpdateSummary()
+    {
+        var total = _list.Controls.OfType<DownloadCard>().Count();
+        var active = ActiveDownloadCount;
+        var done = CompletedDownloadCount;
+        _summary.Text = total == 0 ? "ÐŸÐ¾ÐºÐ° Ð½ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¾Ðº" : $"{active} Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ…   Â·   {done} Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾   Â·   {total} Ð²ÑÐµÐ³Ð¾";
+        _clear.Enabled = done > 0;
+    }
+
+    private void UpdateDiagnostics()
+    {
+        var active = _list.Controls.OfType<DownloadCard>().Where(x => x.IsActive).ToArray();
+        if (active.Length == 0)
+        {
+            if (_hadActiveDownloads) { _speedSamples.Clear(); _peakAggregateSpeed = 0; }
+            _hadActiveDownloads = false;
+            _diagnosticTitle.Text = "Ð”Ð¸Ð°Ð³Ð½Ð¾ÑÑ‚Ð¸ÐºÐ° ÑÐºÐ¾Ñ€Ð¾ÑÑ‚Ð¸";
+            _diagnostics.Text = "ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ â€” Ð·Ð´ÐµÑÑŒ Ð¿Ð¾ÑÐ²Ð¸Ñ‚ÑÑ Ð°Ð½Ð°Ð»Ð¸Ð· ÐºÐ°Ð½Ð°Ð»Ð° Ð¸ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+            _diagnosticTitle.ForeColor = TextMain;
+            _diagnostics.ForeColor = TextMuted;
+            return;
+        }
+
+        _hadActiveDownloads = true;
+        var current = active.Sum(x => x.CurrentBytesPerSecond);
+        _peakAggregateSpeed = Math.Max(_peakAggregateSpeed, current);
+        if (current > 0)
+        {
+            _speedSamples.Enqueue(current);
+            while (_speedSamples.Count > 24) _speedSamples.Dequeue();
+        }
+
+        var tariffMbps = double.TryParse(_internetMbps.Text, out var parsedTariff) && parsedTariff > 0 ? parsedTariff : 200;
+        var tariffBytes = tariffMbps * 1_000_000 / 8;
+        var ratio = tariffBytes > 0 ? current / tariffBytes : 0;
+        var prefix = $"Ð¡ÐµÐ¹Ñ‡Ð°Ñ {ValueFormat.Bytes((long)current)}/Ñ ({current * 8 / 1_000_000:0.#} ÐœÐ±Ð¸Ñ‚/Ñ)   Â·   ÐŸÐ¸Ðº {ValueFormat.Bytes((long)_peakAggregateSpeed)}/Ñ   Â·   {ratio * 100:0}% Ñ‚Ð°Ñ€Ð¸Ñ„Ð°";
+        if (_speedSamples.Count < 12)
+        {
+            _diagnosticTitle.Text = "ÐÐ½Ð°Ð»Ð¸Ð·Ð¸Ñ€ÑƒÐµÐ¼ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµâ€¦";
+            _diagnostics.Text = prefix;
+            _diagnosticTitle.ForeColor = Accent;
+            _diagnostics.ForeColor = TextMuted;
+            return;
+        }
+
+        var recent = _speedSamples.TakeLast(16).ToArray();
+        var average = recent.Average();
+        var deviation = average > 0 ? Math.Sqrt(recent.Average(x => Math.Pow(x - average, 2))) / average : 1;
+        var averageRatio = tariffBytes > 0 ? average / tariffBytes : 0;
+        if (deviation < .18 && averageRatio < .70)
+        {
+            _diagnosticTitle.Text = "Ð’ÐµÑ€Ð¾ÑÑ‚Ð½Ð¾ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¾ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð¼";
+            _diagnostics.Text = prefix + $"   Â·   ÐÐ°Ð±Ð»ÑŽÐ´Ð°ÐµÐ¼Ñ‹Ð¹ Ð¿Ñ€ÐµÐ´ÐµÐ» â‰ˆ{ValueFormat.Bytes((long)average)}/Ñ";
+            _diagnosticTitle.ForeColor = Color.FromArgb(157, 93, 0); _diagnostics.ForeColor = TextMuted;
+        }
+        else if (averageRatio >= .85)
+        {
+            _diagnosticTitle.Text = "ÐšÐ°Ð½Ð°Ð» Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð¿Ð¾Ñ‡Ñ‚Ð¸ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ";
+            _diagnostics.Text = prefix;
+            _diagnosticTitle.ForeColor = Color.FromArgb(15, 123, 75); _diagnostics.ForeColor = TextMuted;
+        }
+        else
+        {
+            _diagnosticTitle.Text = "Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ Ð½ÐµÑÑ‚Ð°Ð±Ð¸Ð»ÑŒÐ½Ð°";
+            _diagnostics.Text = prefix + "   Â·   Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ñ‹ Wi-Fi, Ð´Ð¸ÑÐº Ð¸Ð»Ð¸ ÑÐµÑ€Ð²ÐµÑ€";
+            _diagnosticTitle.ForeColor = TextMain;
+            _diagnostics.ForeColor = TextMuted;
+        }
+    }
+
+    private void UpdateEmptyState()
+    {
+        var empty = _list.Controls.Count == 0;
+        _list.Visible = !empty; _empty.Visible = empty;
+        if (empty) _empty.BringToFront(); else _list.BringToFront();
+        UpdateSummary();
+    }
+
+    private void ResizeCards()
+    {
+        var width = CardWidth();
+        foreach (Control card in _list.Controls) card.Width = width;
+    }
+
+    private int CardWidth() => Math.Max(560, _listHost.ClientSize.Width - 32);
+
+    private void PasteLinks()
+    {
+        try { if (Clipboard.ContainsText()) _url.Text = Clipboard.GetText().Trim(); }
+        catch { }
+        _url.Focus(); _url.SelectionStart = _url.TextLength;
+    }
+
+    private void TryFillClipboard()
+    {
+        try
+        {
+            if (!Clipboard.ContainsText()) return;
+            var value = Clipboard.GetText().Trim();
+            if (value.Split(['\r', '\n', ' '], StringSplitOptions.RemoveEmptyEntries).Any(x => Uri.TryCreate(x, UriKind.Absolute, out var u) && (u.Scheme == "http" || u.Scheme == "https"))) _url.Text = value;
+        }
+        catch { }
+    }
+
+    private void BrowseFolder()
+    {
+        using var dialog = new FolderBrowserDialog { Description = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð°Ð¿ÐºÑƒ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¾Ðº", SelectedPath = _folder.Text, UseDescriptionForTitle = true };
+        if (dialog.ShowDialog(this) == DialogResult.OK) _folder.Text = dialog.SelectedPath;
+    }
+
+    private int GetConnectionCount() => _connections.SelectedIndex switch { 1 => 4, 2 => 8, 3 => 16, 4 => 1, _ => 8 };
+
+    private static void ConfigureTextBox(TextBox box, string placeholder)
+    {
+        box.BorderStyle = BorderStyle.None; box.BackColor = Surface; box.ForeColor = TextMain; box.Font = UiFont(10.5f); box.PlaceholderText = placeholder;
+    }
+
+    internal static Font UiFont(float size, FontStyle style = FontStyle.Regular) => new("Segoe UI Variable Text", size, style);
+    internal static Label MakeLabel(string text, float size, Color color, FontStyle style = FontStyle.Regular) => new() { Text = text, ForeColor = color, BackColor = Color.Transparent, Font = UiFont(size, style), AutoSize = false };
+}
+
+internal enum CardState { Connecting, Running, Pausing, Paused, Completed, Failed }
+
+internal sealed class DownloadCard : UserControl
+{
+    private static readonly Color CardBg = Color.FromArgb(251, 251, 251);
+    private static readonly Color Border = Color.FromArgb(229, 229, 229);
+    private static readonly Color TextMain = Color.FromArgb(31, 31, 31);
+    private static readonly Color Muted = Color.FromArgb(96, 96, 96);
+    private static readonly Color Accent = Color.FromArgb(0, 103, 192);
+    private static readonly Color Success = Color.FromArgb(15, 123, 75);
+    private static readonly Color Error = Color.FromArgb(196, 43, 28);
+
+    private readonly Uri _url;
+    private readonly string _folder;
+    private readonly int _connections;
+    private readonly Label _name = MainForm.MakeLabel("ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµâ€¦", 11.5f, TextMain, FontStyle.Bold);
+    private readonly Label _status = MainForm.MakeLabel("ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÐµÐ¼ ÑÐµÑ€Ð²ÐµÑ€", 9, Muted);
+    private readonly Label _size = MainForm.MakeLabel("0 Ð‘ / â€”", 9, Muted);
+    private readonly Label _speed = MainForm.MakeLabel("", 9, Muted);
+    private readonly Label _eta = MainForm.MakeLabel("", 9, Muted);
+    private readonly FluentProgress _progress = new();
+    private readonly FluentButton _pause = new("ÐŸÐ°ÑƒÐ·Ð°", Color.FromArgb(238, 238, 238), TextMain);
+    private readonly FluentButton _open = new("ÐŸÐ°Ð¿ÐºÐ°", Color.FromArgb(238, 238, 238), TextMain);
+    private readonly FluentButton _remove = new("Ã—", Color.Transparent, Muted) { BorderColor = Border };
+    private readonly System.Windows.Forms.Timer _timer = new() { Interval = 350 };
+    private DownloadEngine? _engine;
+    private CancellationTokenSource? _cts;
+    private string? _completedPath;
+    private CardState _state = CardState.Paused;
+    private Task? _currentRun;
+    private bool _discardRequested;
+    private bool _closing;
+    private double _currentBytesPerSecond;
+    private double _peakBytesPerSecond;
+
+    public event EventHandler? RemoveRequested;
+    public event EventHandler? StatusChanged;
+    public Uri SourceUrl => _url;
+    public bool IsActive => _state is CardState.Connecting or CardState.Running or CardState.Pausing;
+    public bool IsCompleted => _state == CardState.Completed;
+    public double CurrentBytesPerSecond => IsActive ? _currentBytesPerSecond : 0;
+    public double PeakBytesPerSecond => _peakBytesPerSecond;
+
+    public DownloadCard(Uri url, string folder, int connections)
+    {
+        _url = url; _folder = folder; _connections = connections;
+        Height = 126; BackColor = Color.FromArgb(243, 243, 243); Margin = new Padding(0, 0, 0, 12); DoubleBuffered = true;
+        var initialName = Uri.UnescapeDataString(Path.GetFileName(url.LocalPath));
+        _name.Text = string.IsNullOrWhiteSpace(initialName) ? url.Host : initialName;
+        _name.AutoEllipsis = true; _status.AutoEllipsis = true;
+        Controls.AddRange([_name, _status, _size, _speed, _eta, _progress, _pause, _open, _remove]);
+        _pause.Click += async (_, _) => await TogglePauseAsync();
+        _open.Click += (_, _) => OpenFolder();
+        _remove.Click += (_, _) => RemoveRequested?.Invoke(this, EventArgs.Empty);
+        _timer.Tick += (_, _) => RefreshProgress();
+        SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint | ControlStyles.ResizeRedraw, true);
+    }
+
+    public Task StartAsync()
+    {
+        if (IsActive) return _currentRun ?? Task.CompletedTask;
+        _currentRun = RunCoreAsync();
+        return _currentRun;
+    }
+
+    private async Task RunCoreAsync()
+    {
+        _state = CardState.Connecting;
+        _status.Text = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ðº ÑÐµÑ€Ð²ÐµÑ€Ñƒâ€¦"; _status.ForeColor = Muted;
+        _pause.Text = "ÐŸÐ°ÑƒÐ·Ð°"; _pause.Enabled = true;
+        _engine = new DownloadEngine(_url, _folder, _connections);
+        _cts = new CancellationTokenSource();
+        _timer.Start(); StatusChanged?.Invoke(this, EventArgs.Empty);
+        try
+        {
+            _state = CardState.Running;
+            _completedPath = await _engine.RunAsync(_cts.Token);
+            _state = CardState.Completed;
+            _progress.Value = 1;
+            _name.Text = Path.GetFileName(_completedPath);
+            _status.Text = "Ð—Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾"; _status.ForeColor = Success;
+            _pause.Text = "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾"; _pause.Enabled = false;
+            _open.Enabled = true;
+        }
+        catch (OperationCanceledException)
+        {
+            if (_discardRequested || _closing) return;
+            _state = CardState.Paused;
+            _status.Text = "ÐŸÑ€Ð¸Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾ â€” Ð¿Ñ€Ð¾Ð³Ñ€ÐµÑÑ ÑÐ¾Ñ…Ñ€Ð°Ð½Ñ‘Ð½"; _status.ForeColor = Muted;
+            _pause.Text = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ"; _pause.Enabled = true;
+        }
+        catch (Exception ex)
+        {
+            _state = CardState.Failed;
+            _status.Text = "ÐžÑˆÐ¸Ð±ÐºÐ°: " + ex.Message; _status.ForeColor = Error;
+            _pause.Text = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÑŒ"; _pause.Enabled = true;
+        }
+        finally
+        {
+            _timer.Stop();
+            if (!_discardRequested && !_closing) { RefreshProgress(); StatusChanged?.Invoke(this, EventArgs.Empty); }
+        }
+    }
+
+    public void PauseForExit()
+    {
+        _closing = true;
+        _cts?.Cancel();
+    }
+
+    public async Task DiscardAsync()
+    {
+        _discardRequested = true;
+        _cts?.Cancel();
+        if (_currentRun is not null)
+        {
+            try { await _currentRun; }
+            catch { }
+        }
+        await DownloadEngine.DeleteCachedDownloadAsync(_url, _folder);
+    }
+
+    internal void SetPreview(string name, string status, double progress, string size, string speed, string eta, bool completed, double bytesPerSecond = 0)
+    {
+        _name.Text = name; _status.Text = status; _progress.Value = progress; _size.Text = size; _speed.Text = speed; _eta.Text = eta;
+        _currentBytesPerSecond = bytesPerSecond; _peakBytesPerSecond = bytesPerSecond;
+        _state = completed ? CardState.Completed : CardState.Running;
+        _status.ForeColor = completed ? Success : Accent;
+        _pause.Text = completed ? "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾" : "ÐŸÐ°ÑƒÐ·Ð°"; _pause.Enabled = !completed;
+    }
+
+    protected override void OnLayout(LayoutEventArgs e)
+    {
+        base.OnLayout(e);
+        var actionsWidth = 236;
+        _name.SetBounds(20, 15, Math.Max(120, Width - actionsWidth - 34), 25);
+        _status.SetBounds(20, 42, Math.Max(120, Width - actionsWidth - 34), 22);
+        _remove.SetBounds(Width - 48, 16, 28, 28);
+        _open.SetBounds(Width - 126, 16, 70, 30);
+        _pause.SetBounds(Width - 224, 16, 90, 30);
+        _progress.SetBounds(20, 72, Math.Max(100, Width - 40), 7);
+        _size.SetBounds(20, 88, 230, 22);
+        _speed.SetBounds(Math.Max(255, Width / 2 - 80), 88, 160, 22);
+        _eta.SetBounds(Math.Max(430, Width - 250), 88, 230, 22); _eta.TextAlign = ContentAlignment.MiddleRight;
+    }
+
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+        using var path = DrawingUtil.RoundRect(new RectangleF(0.5f, 0.5f, Width - 1, Height - 2), 10);
+        using var fill = new SolidBrush(CardBg); using var pen = new Pen(Border);
+        e.Graphics.FillPath(fill, path); e.Graphics.DrawPath(pen, path);
+    }
+
+    private async Task TogglePauseAsync()
+    {
+        if (_state is CardState.Paused or CardState.Failed) { await StartAsync(); return; }
+        if (!IsActive) return;
+        _state = CardState.Pausing; _pause.Enabled = false; _status.Text = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÐµÐ¼ Ð¿Ñ€Ð¾Ð³Ñ€ÐµÑÑâ€¦";
+        _cts?.Cancel(); StatusChanged?.Invoke(this, EventArgs.Empty);
+    }
+
+    private void RefreshProgress()
+    {
+        if (_engine is null) return;
+        var p = _engine.GetProgress();
+        _currentBytesPerSecond = p.BytesPerSecond;
+        _peakBytesPerSecond = Math.Max(_peakBytesPerSecond, p.BytesPerSecond);
+        if (!string.IsNullOrWhiteSpace(p.FileName)) _name.Text = p.FileName;
+        _size.Text = $"{ValueFormat.Bytes(p.Downloaded)} / {(p.Total > 0 ? ValueFormat.Bytes(p.Total) : "Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾")}";
+        _speed.Text = p.BytesPerSecond > 0 ? $"{ValueFormat.Bytes((long)p.BytesPerSecond)}/Ñ" : "";
+        if (p.Total > 0)
+        {
+            _progress.Value = Math.Clamp((double)p.Downloaded / p.Total, 0, 1);
+            if (p.BytesPerSecond > 1 && p.Downloaded < p.Total)
+                _eta.Text = "ÐžÑÑ‚Ð°Ð»Ð¾ÑÑŒ " + ValueFormat.Duration(TimeSpan.FromSeconds((p.Total - p.Downloaded) / p.BytesPerSecond));
+        }
+        if (_state == CardState.Running)
+        {
+            _status.Text = p.UsingRanges ? $"Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Â· {Math.Max(1, p.ActiveConnections)} ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ð¹" : "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Â· Ð¾Ð´Ð¸Ð½ Ð¿Ð¾Ñ‚Ð¾Ðº";
+            _status.ForeColor = Accent;
+        }
+    }
+
+    private void OpenFolder()
+    {
+        var folder = _completedPath is not null ? Path.GetDirectoryName(_completedPath)! : _folder;
+        if (Directory.Exists(folder)) Process.Start(new ProcessStartInfo("explorer.exe", $"\"{folder}\"") { UseShellExecute = true });
+    }
+}
+
+internal sealed class FluentButton : Control
+{
+    private bool _hover;
+    private bool _pressed;
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color FillColor { get; set; }
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color HoverColor { get; set; }
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color TextColor { get; set; }
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color BorderColor { get; set; } = Color.Transparent;
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public int Radius { get; set; } = 6;
+
+    public FluentButton(string text, Color fill, Color textColor)
+    {
+        Text = text; FillColor = fill; HoverColor = fill == Color.Transparent ? Color.FromArgb(235, 235, 235) : ControlPaint.Dark(fill, .04f); TextColor = textColor;
+        Font = MainForm.UiFont(9, FontStyle.Regular); Cursor = Cursors.Hand; AccessibleRole = AccessibleRole.PushButton; TabStop = true;
+        SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint | ControlStyles.ResizeRedraw | ControlStyles.SupportsTransparentBackColor, true);
+    }
+
+    protected override void OnMouseEnter(EventArgs e) { _hover = true; Invalidate(); base.OnMouseEnter(e); }
+    protected override void OnMouseLeave(EventArgs e) { _hover = _pressed = false; Invalidate(); base.OnMouseLeave(e); }
+    protected override void OnMouseDown(MouseEventArgs e) { if (e.Button == MouseButtons.Left) _pressed = true; Invalidate(); base.OnMouseDown(e); }
+    protected override void OnMouseUp(MouseEventArgs e) { _pressed = false; Invalidate(); base.OnMouseUp(e); }
+    protected override void OnKeyDown(KeyEventArgs e) { if (e.KeyCode is Keys.Enter or Keys.Space) { OnClick(EventArgs.Empty); e.Handled = true; } base.OnKeyDown(e); }
+
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+        e.Graphics.Clear(Parent?.BackColor ?? SystemColors.Control);
+        var fill = !Enabled ? Color.FromArgb(235, 235, 235) : _pressed ? ControlPaint.Dark(FillColor == Color.Transparent ? HoverColor : FillColor, .08f) : _hover ? HoverColor : FillColor;
+        var text = Enabled ? TextColor : Color.FromArgb(150, 150, 150);
+        using var path = DrawingUtil.RoundRect(new RectangleF(.5f, .5f, Width - 1, Height - 1), Radius);
+        if (fill != Color.Transparent) { using var brush = new SolidBrush(fill); e.Graphics.FillPath(brush, path); }
+        if (BorderColor != Color.Transparent) { using var pen = new Pen(BorderColor); e.Graphics.DrawPath(pen, path); }
+        TextRenderer.DrawText(e.Graphics, Text, Font, ClientRectangle, text, TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter | TextFormatFlags.EndEllipsis);
+        if (Focused) ControlPaint.DrawFocusRectangle(e.Graphics, Rectangle.Inflate(ClientRectangle, -3, -3));
+    }
+}
+
+internal sealed class RoundedPanel : Panel
+{
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color FillColor { get; set; } = Color.White;
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public Color BorderColor { get; set; } = Color.Transparent;
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public int Radius { get; set; } = 8;
+    public RoundedPanel()
+    {
+        SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint | ControlStyles.ResizeRedraw, true);
+        DoubleBuffered = true;
+    }
+    protected override void OnResize(EventArgs eventargs)
+    {
+        base.OnResize(eventargs);
+        if (Width <= 0 || Height <= 0) return;
+        using var path = DrawingUtil.RoundRect(new RectangleF(0, 0, Width, Height), Radius);
+        var oldRegion = Region;
+        Region = new Region(path);
+        oldRegion?.Dispose();
+        Invalidate();
+    }
+    protected override void OnPaintBackground(PaintEventArgs e)
+    {
+        e.Graphics.Clear(FillColor);
+    }
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        base.OnPaint(e);
+        if (BorderColor == Color.Transparent) return;
+        e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+        using var path = DrawingUtil.RoundRect(new RectangleF(.5f, .5f, Width - 1.5f, Height - 1.5f), Radius);
+        using var pen = new Pen(BorderColor); e.Graphics.DrawPath(pen, path);
+    }
+}
+
+internal sealed class FluentProgress : Control
+{
+    private double _value;
+    [Browsable(false), DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)] public double Value { get => _value; set { _value = Math.Clamp(value, 0, 1); Invalidate(); } }
+    public FluentProgress() { SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint, true); }
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+        e.Graphics.Clear(Parent?.BackColor ?? Color.Transparent);
+        using var track = DrawingUtil.RoundRect(ClientRectangle, Height / 2f); using var trackBrush = new SolidBrush(Color.FromArgb(225, 225, 225)); e.Graphics.FillPath(trackBrush, track);
+        if (_value <= 0) return;
+        var width = Math.Max(Height, (float)(Width * _value));
+        using var fill = DrawingUtil.RoundRect(new RectangleF(0, 0, width, Height), Height / 2f); using var accent = new SolidBrush(Color.FromArgb(0, 103, 192)); e.Graphics.FillPath(accent, fill);
+    }
+}
+
+internal sealed class FluentAppIcon : Control
+{
+    public FluentAppIcon() { SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint | ControlStyles.SupportsTransparentBackColor, true); BackColor = Color.Transparent; }
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+        using var bgPath = DrawingUtil.RoundRect(new RectangleF(1, 1, Width - 2, Height - 2), 10); using var bg = new SolidBrush(Color.FromArgb(0, 103, 192)); e.Graphics.FillPath(bg, bgPath);
+        using var pen = new Pen(Color.White, 3) { StartCap = LineCap.Round, EndCap = LineCap.Round };
+        e.Graphics.DrawLine(pen, Width / 2f, 10, Width / 2f, 28);
+        e.Graphics.DrawLine(pen, 15, 23, Width / 2f, 31);
+        e.Graphics.DrawLine(pen, Width / 2f, 31, 29, 23);
+        e.Graphics.DrawLine(pen, 14, 35, 30, 35);
+    }
+}
+
+internal sealed class SmoothFlowPanel : FlowLayoutPanel
+{
+    public SmoothFlowPanel() { DoubleBuffered = true; }
+}
+
+internal static class DrawingUtil
+{
+    public static GraphicsPath RoundRect(RectangleF rect, float radius)
+    {
+        var path = new GraphicsPath(); var d = Math.Min(radius * 2, Math.Min(rect.Width, rect.Height));
+        path.AddArc(rect.X, rect.Y, d, d, 180, 90); path.AddArc(rect.Right - d, rect.Y, d, d, 270, 90);
+        path.AddArc(rect.Right - d, rect.Bottom - d, d, d, 0, 90); path.AddArc(rect.X, rect.Bottom - d, d, d, 90, 90); path.CloseFigure();
+        return path;
+    }
+}
+
+internal static class ValueFormat
+{
+    public static string Bytes(long value)
+    {
+        string[] units = ["Ð‘", "ÐšÐ‘", "ÐœÐ‘", "Ð“Ð‘", "Ð¢Ð‘"]; double size = Math.Max(0, value); var i = 0;
+        while (size >= 1024 && i < units.Length - 1) { size /= 1024; i++; }
+        return i == 0 ? $"{size:0} {units[i]}" : $"{size:0.##} {units[i]}";
+    }
+    public static string Duration(TimeSpan t) => t.TotalHours >= 1 ? $"{(int)t.TotalHours} Ñ‡ {t.Minutes} Ð¼Ð¸Ð½" : t.TotalMinutes >= 1 ? $"{(int)t.TotalMinutes} Ð¼Ð¸Ð½ {t.Seconds} ÑÐµÐº" : $"{Math.Max(0, t.Seconds)} ÑÐµÐº";
+}
+
+internal static class FluentWindow
+{
+    [DllImport("dwmapi.dll")] private static extern int DwmSetWindowAttribute(IntPtr hwnd, int attribute, ref int value, int size);
+    [DllImport("user32.dll")] private static extern bool DestroyIcon(IntPtr handle);
+    public static Icon CreateAppIcon()
+    {
+        using var bitmap = new Bitmap(32, 32);
+        using (var g = Graphics.FromImage(bitmap))
+        {
+            g.SmoothingMode = SmoothingMode.AntiAlias; g.Clear(Color.Transparent);
+            using var shape = DrawingUtil.RoundRect(new RectangleF(1, 1, 30, 30), 7); using var blue = new SolidBrush(Color.FromArgb(0, 103, 192)); g.FillPath(blue, shape);
+            using var pen = new Pen(Color.White, 2.5f) { StartCap = LineCap.Round, EndCap = LineCap.Round };
+            g.DrawLine(pen, 16, 7, 16, 21); g.DrawLine(pen, 10.5f, 16, 16, 22); g.DrawLine(pen, 16, 22, 21.5f, 16); g.DrawLine(pen, 9, 26, 23, 26);
+        }
+        var handle = bitmap.GetHicon();
+        try { using var icon = Icon.FromHandle(handle); return (Icon)icon.Clone(); }
+        finally { DestroyIcon(handle); }
+    }
+    public static void Apply(IntPtr handle)
+    {
+        if (!OperatingSystem.IsWindowsVersionAtLeast(10, 0, 22000)) return;
+        try
+        {
+            var rounded = 2; DwmSetWindowAttribute(handle, 33, ref rounded, sizeof(int));
+            var mica = 2; DwmSetWindowAttribute(handle, 38, ref mica, sizeof(int));
+            var light = 0; DwmSetWindowAttribute(handle, 20, ref light, sizeof(int));
+        }
+        catch { }
+    }
+}
