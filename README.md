@@ -1,6 +1,6 @@
 <div align="center">
 
-# Velocity Download
+# Velocity - Download Manager
 
 **Лёгкий portable download manager для Windows 11**
 
