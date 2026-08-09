@@ -163,7 +163,7 @@ internal sealed class LegacyMainForm : Form
 
     public LegacyMainForm()
     {
-        Text = "Velocity Download";
+        Text = "Velocity - Download Manager";
         ClientSize = new Size(760, 560);
         MinimumSize = new Size(680, 530);
         StartPosition = FormStartPosition.CenterScreen;
@@ -201,7 +201,7 @@ internal sealed class LegacyMainForm : Form
 
         var titlePanel = new Panel { Dock = DockStyle.Fill };
         var bolt = MakeLabel("⚡", 28, FontStyle.Regular, Accent2); bolt.AutoSize = true; bolt.Location = new Point(0, 3);
-        var title = MakeLabel("Velocity Download", 20, FontStyle.Bold, PrimaryText); title.AutoSize = true; title.Location = new Point(48, 3);
+        var title = MakeLabel("Velocity - Download Manager", 20, FontStyle.Bold, PrimaryText); title.AutoSize = true; title.Location = new Point(48, 3);
         var subtitle = MakeLabel("Быстрый загрузчик прямых ссылок", 9.5f, FontStyle.Regular, SecondaryText); subtitle.AutoSize = true; subtitle.Location = new Point(51, 38);
         titlePanel.Controls.AddRange([bolt, title, subtitle]);
 
@@ -402,7 +402,7 @@ internal sealed class LegacyMainForm : Form
         _closing = true; _cts?.Cancel();
     }
 
-    private void ShowError(string text) => MessageBox.Show(this, text, "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    private void ShowError(string text) => MessageBox.Show(this, text, "Velocity - Download Manager", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
     private static string FormatBytes(long value)
     {

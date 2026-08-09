@@ -36,7 +36,7 @@ internal sealed class MainForm : Form
 
     public MainForm()
     {
-        Text = "Velocity Download";
+        Text = "Velocity - Download Manager";
         ClientSize = new Size(960, 690);
         MinimumSize = new Size(790, 570);
         StartPosition = FormStartPosition.CenterScreen;
@@ -94,10 +94,10 @@ internal sealed class MainForm : Form
 
         var header = new Panel { Dock = DockStyle.Fill, BackColor = WindowBg };
         var icon = new FluentAppIcon { Location = new Point(0, 5), Size = new Size(44, 44) };
-        var title = MakeLabel("Velocity Download", 20, TextMain, FontStyle.Bold);
-        title.Location = new Point(58, 0); title.Size = new Size(360, 38);
+        var title = MakeLabel("Velocity - Download Manager", 20, TextMain, FontStyle.Bold);
+        title.Location = new Point(58, 0); title.Size = new Size(520, 38);
         var subtitle = MakeLabel("Быстрые параллельные загрузки", 9.5f, TextMuted);
-        subtitle.Location = new Point(60, 38); subtitle.Size = new Size(330, 24);
+        subtitle.Location = new Point(60, 38); subtitle.Size = new Size(460, 24);
         header.Controls.AddRange([icon, title, subtitle]);
 
         var urlSurface = new RoundedPanel { Dock = DockStyle.Fill, FillColor = Surface, BorderColor = Stroke, Radius = 9, Padding = new Padding(16, 12, 12, 12), Margin = new Padding(0, 0, 0, 10) };
@@ -208,11 +208,11 @@ internal sealed class MainForm : Form
             .Where(x => x is not null).Cast<Uri>().DistinctBy(x => x.ToString()).ToList();
         if (links.Count == 0)
         {
-            MessageBox.Show(this, "Вставьте прямую ссылку, начинающуюся с http:// или https://", "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show(this, "Вставьте прямую ссылку, начинающуюся с http:// или https://", "Velocity - Download Manager", MessageBoxButtons.OK, MessageBoxIcon.Information);
             return;
         }
         try { Directory.CreateDirectory(_folder.Text.Trim()); }
-        catch (Exception ex) { MessageBox.Show(this, "Не удалось открыть папку: " + ex.Message, "Velocity Download", MessageBoxButtons.OK, MessageBoxIcon.Warning); return; }
+        catch (Exception ex) { MessageBox.Show(this, "Не удалось открыть папку: " + ex.Message, "Velocity - Download Manager", MessageBoxButtons.OK, MessageBoxIcon.Warning); return; }
 
         _url.Clear();
         foreach (var link in links)
@@ -234,7 +234,7 @@ internal sealed class MainForm : Form
     {
         if (!card.IsCompleted)
         {
-            var result = MessageBox.Show(this, "Удалить эту загрузку?\n\nЗагруженная часть и данные для продолжения будут удалены без возможности восстановления.", "Velocity Download", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            var result = MessageBox.Show(this, "Удалить эту загрузку?\n\nЗагруженная часть и данные для продолжения будут удалены без возможности восстановления.", "Velocity - Download Manager", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
             if (result != DialogResult.Yes) return;
         }
         _list.Controls.Remove(card);

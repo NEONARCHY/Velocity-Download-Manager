@@ -14,7 +14,7 @@
 
 </div>
 
-![Velocity Download — интерфейс Windows 11](docs/screenshot.png)
+![Velocity - Download Manager — интерфейс Windows 11](docs/screenshot.png)
 
 ## Возможности
 
@@ -30,7 +30,7 @@
 
 ## Быстрый старт
 
-1. Скачайте `VelocityDownload-v2.4-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest).
+1. Скачайте `Velocity-Download-Manager-v2.4-portable.exe` из [последнего релиза](https://github.com/NEONARCHY/Velocity-Download-Manager/releases/latest).
 2. Запустите файл, вставьте одну или несколько прямых HTTP/HTTPS-ссылок.
 3. Выберите папку и нажмите **«Добавить»**.
 
@@ -38,7 +38,7 @@
 
 ## Скорость и ограничения серверов
 
-Velocity Download использует доступную пропускную способность соединения и многопоточную загрузку, когда сервер её разрешает. Приложение не обходит ограничения скорости, установленные сервером, аккаунтом, провайдером или Wi‑Fi. Диагностическая строка помогает понять, где вероятнее всего находится ограничение.
+Velocity - Download Manager использует доступную пропускную способность соединения и многопоточную загрузку, когда сервер её разрешает. Приложение не обходит ограничения скорости, установленные сервером, аккаунтом, провайдером или Wi‑Fi. Диагностическая строка помогает понять, где вероятнее всего находится ограничение.
 
 ## Кэш и приватность
 
@@ -63,14 +63,13 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 Для официального portable EXE версии 2.4:
 
 ```text
-SHA-256: 9C7716B1A2AEEF6AF465566FDEF587FEEFA0AAD3A2AD5A6A8F63FB2311069230
+SHA-256: 48B3AE9DE236E0E3EE1577660439F30AF2F9B5603AFC7DFDA3E0BEE964D917A4
 ```
 
 ```powershell
-Get-FileHash .\VelocityDownload-v2.4-portable.exe -Algorithm SHA256
+Get-FileHash .\Velocity-Download-Manager-v2.4-portable.exe -Algorithm SHA256
 ```
 
 ## Лицензия
 
 Исходный код распространяется по лицензии [MIT](LICENSE).
-

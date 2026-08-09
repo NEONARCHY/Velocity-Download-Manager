@@ -11,11 +11,10 @@
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <Version>2.4.0</Version>
     <Authors>NEONARCHY</Authors>
-    <Product>Velocity Download</Product>
+    <Product>Velocity - Download Manager</Product>
     <Description>Portable multi-download manager for Windows 11 with segmented downloads, resume support and Fluent UI.</Description>
     <RepositoryUrl>https://github.com/NEONARCHY/Velocity-Download-Manager</RepositoryUrl>
     <PackageProjectUrl>https://github.com/NEONARCHY/Velocity-Download-Manager</PackageProjectUrl>
     <Copyright>Copyright © 2026 NEONARCHY</Copyright>
   </PropertyGroup>
 </Project>
-
