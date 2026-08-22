@@ -16,7 +16,7 @@
 
 </div>
 
-![Velocity - Download Manager — интерфейс Windows 11](docs/screenshot.png)
+![Velocity - Download Manager — интерфейс Windows 11]
 
 ## Возможности
 
